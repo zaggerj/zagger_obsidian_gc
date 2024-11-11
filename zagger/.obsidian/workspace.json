@@ -417,7 +417,7 @@
             }
           },
           {
-            "id": "7d32f0803e2c4755",
+            "id": "f781761dcdce4c15",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -474,9 +474,11 @@
   },
   "active": "8f40cb30027ce16b",
   "lastOpenFiles": [
+    "020 - 工作学习/工作/业务知识和难题/spice/spice问题/spice白屏问题.md",
+    "vite-plugin-mock-readme.md",
+    "s.md",
     "conflict-files-obsidian-git.md",
     "000 - 每日日记/DailyNote/2024年11月11日.md",
-    "020 - 工作学习/工作/业务知识和难题/spice/spice问题/spice白屏问题.md",
     "005 - Archive/pdf/AngularJS权威教程(中文版).pdf",
     "000 - 每日日记/WeeklyNote/2024年45周记录.md",
     "000 - 每日日记/WeeklyNote/2024年46周记录.md",
@@ -507,8 +509,6 @@
     "004 - Resource/资源/windows操作系统重装教程.md",
     "020 - 工作学习/学习/后端/docker/a docker讲得比较好的文章/a docker实战 - 禅道卫士维护 2023.0606.md",
     "000 - 每日日记/DailyNote/2024年11月07日.md",
-    "000 - 每日日记/DailyNote/2024年11月06日.md",
-    "005 - Archive/pdf/node.js开发指南.pdf",
-    "005 - Archive/front-end.md"
+    "005 - Archive/pdf/node.js开发指南.pdf"
   ]
 }

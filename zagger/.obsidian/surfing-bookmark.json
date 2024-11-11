@@ -1,0 +1,130 @@
+{
+  "bookmarks": [
+    {
+      "id": "-192224096",
+      "name": "Dataview",
+      "url": "https://blacksmithgu.github.io/obsidian-dataview/#how-to-use-dataview",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1699110361388,
+      "modified": 1699110361388
+    },
+    {
+      "id": "953454926",
+      "name": "GitHub - blacksmithgu/obsidian-dataview: A high-performance data index and query language over Markdown files, for https://obsidian.md/.",
+      "url": "https://github.com/blacksmithgu/obsidian-dataview",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1699103069479,
+      "modified": 1699103069479
+    },
+    {
+      "id": "-1741003809",
+      "name": "Terminology - Templater",
+      "url": "https://silentvoid13.github.io/Templater/terminology.html#terminology",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1699103020461,
+      "modified": 1699103020461
+    },
+    {
+      "id": "1227183378",
+      "name": "有道云笔记",
+      "url": "https://note.youdao.com/web/#/file/recent/note/WEB2239dc0c610344eab624bb9f26a9c972/",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1699079611033,
+      "modified": 1699079611033
+    },
+    {
+      "id": "-1359511049",
+      "name": "ctrl + Y | 印象笔记网页版",
+      "url": "https://app.yinxiang.com/Home.action?login=true#n=3f299631-4540-427b-bed4-7775697579c8&s=s50&ses=4&sh=2&sds=5&",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1699079544952,
+      "modified": 1699079544952
+    },
+    {
+      "id": "-912791277",
+      "name": "收集箱 - 滴答清单",
+      "url": "https://www.dida365.com/webapp/#p/inbox/tasks",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1699079286630,
+      "modified": 1699079286630
+    },
+    {
+      "id": "2014068036",
+      "name": "Obsidian",
+      "url": "https://obsidian.md/",
+      "description": "A awesome note-taking tool",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1672840861051,
+      "modified": 1672840861052
+    }
+  ],
+  "categories": [
+    {
+      "value": "ROOT",
+      "text": "ROOT",
+      "label": "ROOT",
+      "children": []
+    },
+    {
+      "value": "Computer",
+      "text": "Computer",
+      "label": "Computer",
+      "children": [
+        {
+          "value": "算法",
+          "text": "算法",
+          "label": "算法"
+        },
+        {
+          "value": "数据结构",
+          "text": "数据结构",
+          "label": "数据结构"
+        }
+      ]
+    },
+    {
+      "value": "obsidian",
+      "text": "obsidian",
+      "label": "obsidian",
+      "children": [
+        {
+          "value": "surfing",
+          "text": "surfing",
+          "label": "surfing"
+        },
+        {
+          "value": "dataview",
+          "text": "dataview",
+          "label": "dataview"
+        }
+      ]
+    }
+  ]
+}

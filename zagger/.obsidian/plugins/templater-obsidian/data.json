@@ -1,0 +1,51 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "040 - Obsidian/模板",
+  "templates_pairs": [
+    [
+      "test",
+      "echo \"123123\""
+    ],
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": true,
+  "shell_path": "D:\\\\GlobalScoopApps\\\\apps\\\\git\\\\current\\\\bin\\\\bash.exe",
+  "user_scripts_folder": "040 - Obsidian/模板/script",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "000 - 每日日记/DailyNote",
+      "template": "040 - Obsidian/模板/tp-每日日记模板.md"
+    },
+    {
+      "folder": "000 - 每日日记/WeeklyNote",
+      "template": "040 - Obsidian/模板/tp-每周周记模板.md"
+    },
+    {
+      "folder": "000 - 每日日记",
+      "template": "040 - Obsidian/模板/tp-daily.md"
+    },
+    {
+      "folder": "60 - 临时",
+      "template": "040 - Obsidian/模板/01 自动选择模板.md"
+    },
+    {
+      "folder": "/",
+      "template": "040 - Obsidian/模板/tp-改良长青笔记模板.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}

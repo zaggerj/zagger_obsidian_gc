@@ -1,0 +1,34 @@
+---
+tags: 资源/环境配置
+created: 2023-11-06T08:20
+updated: 2023-11-14T09:22
+---
+# 安装powershell
+
+1. netsh winhttp set proxy "127.0.0.1:7890"
+2. netsh winhttp reset proxy
+3. $ENV:ALL_PROXY ='[http://127.0.0.1:7890](http://127.0.0.1:7890)'
+4. $proxy='[http://127.0.0.1:7890](http://127.0.0.1:7890)'
+
+```js
+$ENV:HTTP_PROXY=$proxy
+
+$ENV:HTTPS_PROXY=$proxy
+
+$env:all_proxy=""
+
+$ENV:HTTP_PROXY=""
+
+$ENV:HTTPS_PROXY=""
+
+$env:all_proxy=""
+
+curl cip.cc
+
+ls env:*
+```
+
+　　​![0](0-20230705214040-ospk043.png)​
+
+5. winget install --id Microsoft.Powershell --source winget
+6. [(29条消息) Windows Terminal美化：oh-my-posh配置记录_Miska_Muska的博客-CSDN博客_oh-my-posh](https://blog.csdn.net/qq_45755158/article/details/124677516?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-124677516-blog-127909293.pc_relevant_landingrelevant&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-124677516-blog-127909293.pc_relevant_landingrelevant&utm_relevant_index=1)

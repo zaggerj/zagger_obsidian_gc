@@ -1,0 +1,382 @@
+{
+  "main": {
+    "id": "d18f8f1b85359169",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae465dc4b8c684aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "984aca278797c886",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "040 - Obsidian/主页/00. 主页.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "480b3c3787ecbfef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 - 每日日记/DailyNote/2024年04月27日.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1add095aee25302",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 - 每日日记/WeeklyNote/2024年17周记录.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "304324012b267a0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 - 每日日记/DailyNote/2024年05月09日.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5d2b5fa44c59dcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "004 - Resource/资源/环境安装和软件安装/家庭办公远程/personal token.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11582c6d16e700bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 - 每日日记/DailyNote/2024年05月11日.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04f1f1754d3cb77a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 - 每日日记/WeeklyNote/2024年19周记录.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "850ce489f4c6a537",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 - 每日日记/DailyNote/2024年05月22日.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9eae8aa1ab17b05b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 - 每日日记/WeeklyNote/2024年24周记录.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a473566e0d6c0113",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 - 每日日记/DailyNote/2024年06月22日.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "935388348d2d3266",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "da11f34f8458085e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a5ff0b6f8e755141",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "351776a8bfb4f53a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "9d4e874b8650d11f",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "d01ad716c958a28e",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
+      },
+      {
+        "id": "166871a8e3166243",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      },
+      {
+        "id": "20a79459100895d8",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 1,
+    "pinned": true
+  },
+  "right": {
+    "id": "50c2007abaeee764",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1a2a5d025d2bf2aa",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "000 - 每日日记/DailyNote/2024年06月22日.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "806dec65384b005e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "000 - 每日日记/DailyNote/2024年06月22日.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "321a1cbff31b2174",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "000 - 每日日记/DailyNote/2024年06月22日.md"
+          }
+        }
+      },
+      {
+        "id": "88e44396c1cc56bd",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "b4a3f9989474407a",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {}
+        }
+      },
+      {
+        "id": "63d53cc49e6b6ec1",
+        "type": "leaf",
+        "state": {
+          "type": "timeline",
+          "state": {}
+        }
+      },
+      {
+        "id": "383be0014e35b655",
+        "type": "leaf",
+        "state": {
+          "type": "mermaid-toolbar-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "d04bdda226382c5b",
+        "type": "leaf",
+        "state": {
+          "type": "tasks_timeline_view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3,
+    "pinned": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-kanban:创建新看板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "random-note:开始漫游笔记": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-day-planner:Timeline": false,
+      "cmdr:折叠": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "a473566e0d6c0113",
+  "lastOpenFiles": [
+    "000 - 每日日记/DailyNote/2024年06月11日.md",
+    "000 - 每日日记/DailyNote/2024年06月22日.md",
+    "000 - 每日日记/WeeklyNote/2024年24周记录.md",
+    "000 - 每日日记/DailyNote/2024年05月22日.md",
+    "000 - 每日日记/WeeklyNote/2024年19周记录.md",
+    "000 - 每日日记/DailyNote/2024年05月11日.md",
+    "004 - Resource/资源/环境安装和软件安装/家庭办公远程/personal token.md",
+    "040 - Obsidian/主页/00. 主页.md",
+    "000 - 每日日记/DailyNote/2024年05月09日.md",
+    "000 - 每日日记/WeeklyNote/2024年17周记录.md",
+    "000 - 每日日记/DailyNote/2024年04月27日.md",
+    "000 - 每日日记/DailyNote/2024年04月22日.md",
+    "000 - 每日日记/DailyNote/2024年04月26日.md",
+    "000 - 每日日记/DailyNote/2024年04月28日.md",
+    "000 - 每日日记/DailyNote/2024年04月29日.md",
+    "000 - 每日日记/WeeklyNote/2024年18周记录.md",
+    "000 - 每日日记/DailyNote/2024年05月05日.md",
+    "000 - 每日日记/DailyNote/2024年05月04日.md",
+    "000 - 每日日记/DailyNote/2024年05月03日.md",
+    "000 - 每日日记/DailyNote/2024年05月02日.md",
+    "000 - 每日日记/DailyNote/2024年05月01日.md",
+    "000 - 每日日记/DailyNote/2024年04月30日.md",
+    "000 - 每日日记/DailyNote/2024年04月24日.md",
+    "000 - 每日日记/DailyNote/2024年04月23日.md",
+    "obsidian配置文件目录/Drawing 2024-04-22 20.47.12.excalidraw.md",
+    "obsidian配置文件目录",
+    "000 - 每日日记/DailyNote/2024年04月21日.md",
+    "desktop.ini",
+    "Attachment/Pasted image 20231029002341.png",
+    "灵感/灵感memo",
+    "obsidian使用相关/templater",
+    "灵感",
+    "obsidian使用相关",
+    "Attachment/Pasted image 20231026180844.png",
+    "Attachment/Pasted image 20231026175808.png",
+    "Attachment/Pasted image 20231026175403.png",
+    "Attachment/Pasted image 20231026175623.png",
+    "Attachment/Pasted image 20231026175124.png",
+    "Attachment/Pasted image 20231026173717.png",
+    "Attachment/Pasted image 20231026172915.png",
+    "Attachment/Pasted image 20231026172940.png",
+    "Attachment/Pasted image 20231026165033.png",
+    "记事本/学习/测试/未命名.canvas",
+    "记事本/学习/学习计划脚本/js文档学习笔记",
+    "记事本/学习/webpack",
+    "记事本/环境安排和软件安装/windows软件安装/windows软件列表/assets/app-20230716140408-rlksfzz.asar",
+    "记事本/环境安排和软件安装/windows软件安装/windows软件列表/安装powershell/assets"
+  ]
+}

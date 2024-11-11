@@ -1,0 +1,506 @@
+{
+  "main": {
+    "id": "dce483c947405da3",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fdf9e22418e680e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac889d97c8c0678e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "040 - Obsidian/主页/00. 主页.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00. 主页"
+            }
+          },
+          {
+            "id": "3fcb4d3a4cddfad3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "040 - Obsidian/主页/每日网站打开.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "每日网站打开"
+            }
+          },
+          {
+            "id": "1304553cb409d72c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "020 - 工作学习/学习/后端/docker/a docker讲得比较好的文章/a docker实战 - 禅道卫士维护 2023.0606.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "a docker实战 - 禅道卫士维护 2023.0606"
+            }
+          },
+          {
+            "id": "7388c9f351f81c1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "004 - Resource/资源/windows操作系统重装教程.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "windows操作系统重装教程"
+            }
+          },
+          {
+            "id": "aa507d199d43c40d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "020 - 工作学习/工作/交接文档/mmc.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mmc"
+            }
+          },
+          {
+            "id": "adaeacd878751b27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "020 - 工作学习/学习/后端/服务器相关知识/a 服务器相关命令.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "a 服务器相关命令"
+            }
+          },
+          {
+            "id": "6cc38fb91b3f3914",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "020 - 工作学习/工作/汇总所有在线文档.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "汇总所有在线文档"
+            }
+          },
+          {
+            "id": "cbf2e453c48c5c76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 - 每日日记/WeeklyNote/2024年45周记录.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024年45周记录"
+            }
+          },
+          {
+            "id": "9fdd023aa113f29b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 - 每日日记/WeeklyNote/2024年46周记录.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024年46周记录"
+            }
+          },
+          {
+            "id": "1bc231c5fc8fe0cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 - 每日日记/DailyNote/ehelper项目.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ehelper项目"
+            }
+          },
+          {
+            "id": "a9220c92b963e9f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "004 - Resource/资源/linux安装最新neovim.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "linux安装最新neovim"
+            }
+          },
+          {
+            "id": "f8aee451c42d286d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 - 每日日记/DailyNote/nodejs子进程.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "nodejs子进程"
+            }
+          },
+          {
+            "id": "5b8c54f11cf3a040",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "020 - 工作学习/工作/业务知识和难题/spice/spice问题/spice白屏问题.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "spice白屏问题"
+            }
+          },
+          {
+            "id": "8f40cb30027ce16b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 - 每日日记/DailyNote/2024年11月11日.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024年11月11日"
+            }
+          }
+        ],
+        "currentTab": 12
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "23163e226ba1253c",
+    "type": "split",
+    "children": [
+      {
+        "id": "284346499ce2ea86",
+        "type": "tabs",
+        "dimension": 80.38067349926794,
+        "children": [
+          {
+            "id": "23fad819ff207865",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "03fb6b7e157ad75a",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
+          },
+          {
+            "id": "f2b0ffe519625a29",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "frontend",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "8cdc7c8bed089ab9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      },
+      {
+        "id": "73db95bfb166faa1",
+        "type": "tabs",
+        "dimension": 19.619326500732065,
+        "children": [
+          {
+            "id": "8b6d8c7e5231700f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "0b0cb56ba2aa4a0a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 201.5
+  },
+  "right": {
+    "id": "49b0f6d6f173189c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d5d1a69e107f675",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60f931c5f80841ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "000 - 每日日记/DailyNote/2024年10月25日.md"
+              },
+              "icon": "lucide-list",
+              "title": "2024年10月25日 的大纲"
+            }
+          },
+          {
+            "id": "587097c7d3e0dc04",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "6480c2a734e3c425",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "000 - 每日日记/DailyNote/2024年10月25日.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2024年10月25日 的反向链接列表"
+            }
+          },
+          {
+            "id": "6355d30f474216e7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "000 - 每日日记/DailyNote/2024年10月25日.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2024年10月25日 的出链列表"
+            }
+          },
+          {
+            "id": "588ad9f7ff43be3a",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "000 - 每日日记/DailyNote/2024年10月25日.md"
+              },
+              "icon": "lucide-info",
+              "title": "2024年10月25日的笔记属性"
+            }
+          },
+          {
+            "id": "113fb1d05a8132cc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "d59e538b09c6b285",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "888c3f3084370af3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e6fe91e5170d39b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 267.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-kanban:创建新看板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "random-note:开始漫游笔记": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "periodic-notes:Open today": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "5b8c54f11cf3a040",
+  "lastOpenFiles": [
+    "000 - 每日日记/DailyNote/2024年11月11日.md",
+    "005 - Archive/pdf/AngularJS权威教程(中文版).pdf",
+    "020 - 工作学习/工作/业务知识和难题/spice/spice问题/spice白屏问题.md",
+    "000 - 每日日记/WeeklyNote/2024年45周记录.md",
+    "000 - 每日日记/WeeklyNote/2024年46周记录.md",
+    "005 - Archive/Electron实战-入门、进阶与性能优化 -- 刘晓伦 -- 2020 -- 机械工业出版社 -- 9787111653745 -- 6daea5b2c0b21ab23d7417cbeffb9776 -- Anna’s Archive.pdf",
+    "005 - Archive/深入浅出Electron 原理、工程与实践 -- 刘晓伦 -- 2022 -- 机械工业出版社 -- 9787111696094 -- 845edd0b4b83eb3c1b2f0d12c6220063 -- Anna’s Archive.pdf",
+    "040 - Obsidian/主页/每日网站打开.md",
+    "040 - Obsidian/主页/00. 主页.md",
+    "000 - 每日日记/DailyNote/2024年11月08日.md",
+    "005 - Archive/Electron实战：入门、进阶与性能优化.pdf",
+    "000 - 每日日记/DailyNote/2024年11月09日.md",
+    "005 - Archive/Electron实战：入门、进阶与性能优化_刘晓伦_24hbook.com.epub",
+    "020 - 工作学习/工作/汇总所有在线文档.md",
+    "005 - Archive/深入浅出Electron 原理、工程与实践（海康威视Electron专家_布道者撰写 原理、工程构建、技术方案、工具4维度教你开发稳定、健壮Electron应用） (Web开发技术丛书) 刘晓伦  _.epub",
+    "000 - 每日日记/DailyNote/2024年11月17日.md",
+    "000 - 每日日记/DailyNote/2024年11月16日.md",
+    "000 - 每日日记/DailyNote/2024年11月15日.md",
+    "000 - 每日日记/DailyNote/2024年11月14日.md",
+    "000 - 每日日记/DailyNote/2024年11月13日.md",
+    "000 - 每日日记/DailyNote/2024年11月12日.md",
+    "005 - Archive/xmind/front-end.xmind",
+    "005 - Archive/xmind/front-end_join.xmind",
+    "005 - Archive/xmind/front-end109.25.xmind",
+    "000 - 每日日记/DailyNote/nodejs子进程.md",
+    "004 - Resource/资源/linux安装最新neovim.md",
+    "000 - 每日日记/DailyNote/ehelper项目.md",
+    "020 - 工作学习/学习/后端/服务器相关知识/a 服务器相关命令.md",
+    "020 - 工作学习/工作/交接文档/mmc.md",
+    "004 - Resource/资源/windows操作系统重装教程.md",
+    "020 - 工作学习/学习/后端/docker/a docker讲得比较好的文章/a docker实战 - 禅道卫士维护 2023.0606.md",
+    "000 - 每日日记/DailyNote/2024年11月07日.md",
+    "000 - 每日日记/DailyNote/2024年11月06日.md",
+    "005 - Archive/pdf/node.js开发指南.pdf",
+    "005 - Archive/front-end.md"
+  ]
+}

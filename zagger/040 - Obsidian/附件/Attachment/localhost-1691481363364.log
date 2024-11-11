@@ -1,0 +1,155 @@
+15:48:16.956 App.vue:67 App.vue beforeCreate App Start
+15:48:17.364 vue.runtime.esm.js:8793 You are running Vue in development mode.
+Make sure to turn on production mode when deploying for production.
+See more tips at https://vuejs.org/guide/deployment.html
+15:48:17.369 App.vue:160 [start5] 1splitPromise resolve
+15:48:17.628 App.vue:174 [start5] 2stepPromise resolve
+15:48:18.009 App.vue:188 [start5] 3initUrl resolve
+15:48:18.010 App.vue:232 [start5] 4authoredPromise resolve
+15:48:18.011 App.vue:343 [start5] 5langPromise resolve
+15:48:18.011 App.vue:356 [start5] 6configPromise resolve
+15:48:18.011 App.vue:372 App Init Ready,PROD: {wechatLogin: true, GFS: {…}, authTypes: Array(3), productTypeKeys: Array(3), lang: 'zh-cn', …}
+15:48:18.012 App.vue:426 needWs: true path: /console
+15:48:18.012 wsBase.js:28 init.complete.emit
+15:48:18.013 wsApi.js:211 Connecting to wss://172.16.65.145/ws/vdi
+15:48:18.191 wsApi.js:258 WebSocket connected.
+15:48:18.191 wsApi.js:442 [ws] [register] registerData: {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, current_page: 'tspace_webspice', type: 'tspace_webclient', …} mac: B1:jR:2a:EW:NB:BV user_id: 37
+15:48:18.193 wsApi.js:168 >>> api_agent_connections_register {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 0, method: 'api_agent_connections_register', …}
+15:48:18.294 Console.vue:652 [remote] [token get] http
+15:48:18.411 wsApi.js:353 <<< onMessageResponse api_agent_connections_register {code: 0, user_id: 37, f: 'process_response', browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', callback_id: 0, …}
+15:48:18.413 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 1, method: 'PING', …}
+15:48:18.435 wsApi.js:306 <<< get PONG
+15:48:18.610 Console.vue:328 [remote] [token get] http, token: 3a1ef12c-f8ca-4ac0-85e2-d50db7348bf3
+15:48:18.610 Console.vue:333 [remote] [token refresh] spiceInfo token: 3a1ef12c-f8ca-4ac0-85e2-d50db7348bf3
+15:48:18.610 Console.vue:335 [remote] [token get] loop start
+15:48:18.611 Console.vue:416 [remote] [imageQuality] [PROD] isTspace: true
+15:48:18.612 Console.vue:434 [remote] [imageQuality] [spice] serverManage strategy: {__ob__: Observer}264br: 37mc: 38ssrate: 10vmbr: 2800__ob__: Observer {value: {…}, shallow: false, mock: false, dep: Dep, vmCount: 0}get 264br: ƒ reactiveGetter()set 264br: ƒ reactiveSetter(newVal)get mc: ƒ reactiveGetter()set mc: ƒ reactiveSetter(newVal)get ssrate: ƒ reactiveGetter()set ssrate: ƒ reactiveSetter(newVal)get vmbr: ƒ reactiveGetter()set vmbr: ƒ reactiveSetter(newVal)[[Prototype]]: Object
+15:48:18.612 Console.vue:435 [remote] [imageQuality] [idp] serverManage strategy: {__ob__: Observer}
+15:48:18.612 Console.vue:452 [remote] [spice] [spiceConfig] {path: '/6082', dragTransferEnable: false, region: null}dragTransferEnable: falsepath: "/6082"region: null[[Prototype]]: Object isDev: true
+15:48:18.612 Console.vue:469 [remote] [imageQuality] [spice] runConfig.h264: {h264: {…}, description: 'When spice h264 is false or null, it is a texture … which is equivalent to the highest image quality'}
+15:48:18.612 Console.vue:474 [remote] [imageQuality] [idp] runConfig.oeidpStrategy: {oeidpStrategy: {…}, description: 'when oedip oeidpStrategy is null, the default initialization is high'}
+15:48:18.613 Console.vue:480 [remote] [spice] spice switch idp [token] runConfigToken:3a1ef12c-f8ca-4ac0-85e2-d50db7348bf3 {containerID: 'canvasContainer', spicePassword: 'maSNvFNM', proxyHost: '172.16.65.150', proxyPort: 6082, proxyToken: '3a1ef12c-f8ca-4ac0-85e2-d50db7348bf3', …}
+15:48:18.613 Console.vue:495 [remote] [idp switch] idpSwitch: false idpOption: false If no idpOption, the idp will be switched and the default configuration will be used. If the idpOption is passed as false, the idp will not be switched
+15:48:18.613 Console.vue:503 [remote] [spice] runConfig: {containerID: 'canvasContainer', spicePassword: 'maSNvFNM', proxyHost: '172.16.65.150', proxyPort: 6082, proxyToken: '3a1ef12c-f8ca-4ac0-85e2-d50db7348bf3', …}containerID: "canvasContainer"h264: {__ob__: Observer}idp: falseoeidpStrategy: {__ob__: Observer}interval: (...)x264-crf: (...)x264-fps: (...)__ob__: Observer {value: {…}, shallow: false, mock: false, dep: Dep, vmCount: 0}get interval: ƒ reactiveGetter()set interval: ƒ reactiveSetter(newVal)get x264-crf: ƒ reactiveGetter()set x264-crf: ƒ reactiveSetter(newVal)get x264-fps: ƒ reactiveGetter()set x264-fps: ƒ reactiveSetter(newVal)[[Prototype]]: ObjectproxyHost: "172.16.65.150"proxyPort: 6082proxyToken: "3a1ef12c-f8ca-4ac0-85e2-d50db7348bf3"region: nullspiceConfig: {path: '/6082', dragTransferEnable: false, region: null}dragTransferEnable: falsepath: "/6082"region: null[[Prototype]]: ObjectspicePassword: "maSNvFNM"[[Prototype]]: Object
+15:48:18.620 oevdi.min.js:2 [remote] [spice] disconnectPromise created {oevdi: {…}, disconnectPromise: Promise}
+15:48:18.941 Console.vue:742 [remote] [token refresh] spiceInfo token: 5923bb50-50d7-4e80-aaef-0490eb5d4504
+15:48:18.941 Console.vue:744 [remote] [token refresh] lib token: 5923bb50-50d7-4e80-aaef-0490eb5d4504
+15:48:18.941 Console.vue:746 [remote] [token refresh] idp token: 5923bb50-50d7-4e80-aaef-0490eb5d4504
+15:48:18.941 oevdi.min.js:2 [remote] [idp] createUrl {query: 'token=5923bb50-50d7-4e80-aaef-0490eb5d4504', queryParts: {…}, url: 'ws://localhost:8080/webidp?token=5923bb50-50d7-4e80-aaef-0490eb5d4504'}
+15:48:18.941 oevdi.min.js:2 [remote] [idp] refreshIdpUrl, idpOptions: null ws://localhost:8080/webidp?token=5923bb50-50d7-4e80-aaef-0490eb5d4504
+15:48:28.443 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 2, method: 'PING', …}
+15:48:28.444 wsApi.js:306 <<< get PONG
+15:48:38.451 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 3, method: 'PING', …}
+15:48:38.452 wsApi.js:306 <<< get PONG
+15:48:48.462 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 4, method: 'PING', …}
+15:48:48.463 wsApi.js:306 <<< get PONG
+15:48:58.468 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 5, method: 'PING', …}
+15:48:58.469 wsApi.js:306 <<< get PONG
+15:49:08.482 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 6, method: 'PING', …}
+15:49:08.483 wsApi.js:306 <<< get PONG
+15:49:18.485 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 7, method: 'PING', …}
+15:49:18.486 wsApi.js:306 <<< get PONG
+15:49:18.612 remote-desktop.spice.js:181 [oeidp] setResolution error {width: 1616, height: 306, remoteStatus: null}
+15:49:28.492 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 8, method: 'PING', …}
+15:49:28.493 wsApi.js:306 <<< get PONG
+15:49:38.496 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 9, method: 'PING', …}
+15:49:38.497 wsApi.js:306 <<< get PONG
+15:49:48.506 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 10, method: 'PING', …}
+15:49:48.507 wsApi.js:306 <<< get PONG
+15:49:58.515 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 11, method: 'PING', …}
+15:49:58.516 wsApi.js:306 <<< get PONG
+15:50:00.644 remote-desktop.spice.js:181 [oeidp] setResolution error {width: 1616, height: 244, remoteStatus: null}
+15:50:08.524 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 12, method: 'PING', …}
+15:50:08.525 wsApi.js:306 <<< get PONG
+15:50:18.540 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 13, method: 'PING', …}
+15:50:18.541 wsApi.js:306 <<< get PONG
+15:50:28.546 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 14, method: 'PING', …}
+15:50:28.548 wsApi.js:306 <<< get PONG
+15:50:38.555 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 15, method: 'PING', …}
+15:50:38.557 wsApi.js:306 <<< get PONG
+15:50:48.566 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 16, method: 'PING', …}
+15:50:48.567 wsApi.js:306 <<< get PONG
+15:50:58.571 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 17, method: 'PING', …}
+15:50:58.572 wsApi.js:306 <<< get PONG
+15:51:08.574 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 18, method: 'PING', …}
+15:51:08.575 wsApi.js:306 <<< get PONG
+15:51:18.579 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 19, method: 'PING', …}
+15:51:18.580 wsApi.js:306 <<< get PONG
+15:51:28.589 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 20, method: 'PING', …}
+15:51:28.590 wsApi.js:306 <<< get PONG
+15:51:38.598 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 21, method: 'PING', …}
+15:51:38.600 wsApi.js:306 <<< get PONG
+15:51:48.611 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 22, method: 'PING', …}
+15:51:48.612 wsApi.js:306 <<< get PONG
+15:51:58.613 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 23, method: 'PING', …}
+15:51:58.615 wsApi.js:306 <<< get PONG
+15:52:08.627 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 24, method: 'PING', …}
+15:52:08.628 wsApi.js:306 <<< get PONG
+15:52:18.638 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 25, method: 'PING', …}
+15:52:18.639 wsApi.js:306 <<< get PONG
+15:52:19.035 Console.vue:742 [remote] [token refresh] spiceInfo token: bdadcbad-4c0f-4248-978c-5821585197de
+15:52:19.035 Console.vue:744 [remote] [token refresh] lib token: bdadcbad-4c0f-4248-978c-5821585197de
+15:52:19.035 Console.vue:746 [remote] [token refresh] idp token: bdadcbad-4c0f-4248-978c-5821585197de
+15:52:19.035 oevdi.min.js:2 [remote] [idp] createUrl {query: 'token=bdadcbad-4c0f-4248-978c-5821585197de', queryParts: {…}, url: 'ws://localhost:8080/webidp?token=bdadcbad-4c0f-4248-978c-5821585197de'}
+15:52:19.036 oevdi.min.js:2 [remote] [idp] refreshIdpUrl, idpOptions: null ws://localhost:8080/webidp?token=bdadcbad-4c0f-4248-978c-5821585197de
+15:52:25.259 oevdi.min.js:2 [spice] [clipboard] >>> [onwindowfocus] 1[clientGui_emit_focus_event]
+15:52:25.259 oevdi.min.js:2 [spice] [clipboard] >>> [onwindowfocus] 2[syncClientClipBoardToAgent]
+15:52:25.268 oevdi.min.js:2 [spice] [clipboard] >>> [onwindowfocus] 3[navigator_clipboard_readText_fire_paste] {text: '1. /etc/thor/about.conf\n2. 172.21.15.105\n3. zagger…93\n5. [[汇总所有在线文档#^03f3a2|OCS系统]]：qdxmz|oseasy@123'}
+15:52:25.268 oevdi.min.js:2 [spice] [clipboard] >>> [onwindowfocus] 4[clientGui_emit_paste_event_onPaste], this.agent.setClipboard() {params: '1. /etc/thor/about.conf\n2. 172.21.15.105\n3. zagger…93\n5. [[汇总所有在线文档#^03f3a2|OCS系统]]：qdxmz|oseasy@123'}
+15:52:25.268 oevdi.min.js:2 [spice] [clipboard] >>> [onwindowfocus] 5[setClipboard_sendGrab_sendPaste], setClipboard, sendGrab(),sendPaste() {text: '1. /etc/thor/about.conf\n2. 172.21.15.105\n3. zagger…93\n5. [[汇总所有在线文档#^03f3a2|OCS系统]]：qdxmz|oseasy@123', clipboardContent: null}
+15:52:25.269 oevdi.min.js:2 [spice] [clipboard] >>> [onwindowfocus] 6[send_message_to_agent_sendGrab],send message to agent, sendGrab {clipboardGrabbed: false}
+15:52:25.269 oevdi.min.js:2 [spice] [clipboard] >>> [onwindowfocus] 7[send_message_to_agent_sendPaste], send message to agent, sendPaste {clipboardRequestReceived: false, clipboardContent: '1. /etc/thor/about.conf\n2. 172.21.15.105\n3. zagger…93\n5. [[汇总所有在线文档#^03f3a2|OCS系统]]：qdxmz|oseasy@123', clipboardContentLen: 107}
+15:52:28.648 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 26, method: 'PING', …}
+15:52:28.650 wsApi.js:306 <<< get PONG
+15:52:35.765 oevdi.min.js:2 [spice] [clipboard] >>> [onwindowfocus] 1[clientGui_emit_focus_event]
+15:52:35.765 oevdi.min.js:2 [spice] [clipboard] >>> [onwindowfocus] 2[syncClientClipBoardToAgent]
+15:52:35.791 oevdi.min.js:2 [spice] [clipboard] >>> [onwindowfocus] 3[navigator_clipboard_readText_fire_paste] {text: '1. /etc/thor/about.conf\n2. 172.21.15.105\n3. zagger…93\n5. [[汇总所有在线文档#^03f3a2|OCS系统]]：qdxmz|oseasy@123'}
+15:52:35.792 oevdi.min.js:2 [spice] [clipboard] >>> [onwindowfocus] 4[clientGui_emit_paste_event_onPaste], this.agent.setClipboard() {params: '1. /etc/thor/about.conf\n2. 172.21.15.105\n3. zagger…93\n5. [[汇总所有在线文档#^03f3a2|OCS系统]]：qdxmz|oseasy@123'}
+15:52:35.792 oevdi.min.js:2 [spice] [clipboard] >>> [onwindowfocus] 5[setClipboard_sendGrab_sendPaste], setClipboard, sendGrab(),sendPaste() {text: '1. /etc/thor/about.conf\n2. 172.21.15.105\n3. zagger…93\n5. [[汇总所有在线文档#^03f3a2|OCS系统]]：qdxmz|oseasy@123', clipboardContent: '1. /etc/thor/about.conf\n2. 172.21.15.105\n3. zagger…93\n5. [[汇总所有在线文档#^03f3a2|OCS系统]]：qdxmz|oseasy@123'}
+15:52:38.652 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 27, method: 'PING', …}
+15:52:38.653 wsApi.js:306 <<< get PONG
+15:52:48.655 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 28, method: 'PING', …}
+15:52:48.656 wsApi.js:306 <<< get PONG
+15:52:58.662 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 29, method: 'PING', …}
+15:52:58.663 wsApi.js:306 <<< get PONG
+15:53:08.670 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 30, method: 'PING', …}
+15:53:08.671 wsApi.js:306 <<< get PONG
+15:53:18.682 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 31, method: 'PING', …}
+15:53:18.683 wsApi.js:306 <<< get PONG
+15:53:28.692 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 32, method: 'PING', …}
+15:53:28.692 wsApi.js:306 <<< get PONG
+15:53:38.701 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 33, method: 'PING', …}
+15:53:38.702 wsApi.js:306 <<< get PONG
+15:53:48.711 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 34, method: 'PING', …}
+15:53:48.712 wsApi.js:306 <<< get PONG
+15:53:58.721 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 35, method: 'PING', …}
+15:53:58.722 wsApi.js:306 <<< get PONG
+15:54:08.732 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 36, method: 'PING', …}
+15:54:08.733 wsApi.js:306 <<< get PONG
+15:54:13.948 :8080/view-front/#/console?id=desktop2897:1  Unchecked runtime.lastError: A listener indicated an asynchronous response by returning true, but the message channel closed before a response was received
+15:54:18.742 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 37, method: 'PING', …}
+15:54:18.743 wsApi.js:306 <<< get PONG
+15:54:28.747 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 38, method: 'PING', …}
+15:54:28.747 wsApi.js:306 <<< get PONG
+15:54:38.760 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 39, method: 'PING', …}
+15:54:38.760 wsApi.js:306 <<< get PONG
+15:54:47.648 remote-desktop.spice.js:181 [oeidp] setResolution error {width: 1008, height: 244, remoteStatus: null}
+15:54:48.771 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 40, method: 'PING', …}
+15:54:48.772 wsApi.js:306 <<< get PONG
+15:54:52.912 remote-desktop.spice.js:181 [oeidp] setResolution error {width: 1008, height: 110, remoteStatus: null}
+15:54:58.778 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 41, method: 'PING', …}
+15:54:58.779 wsApi.js:306 <<< get PONG
+15:55:08.790 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 42, method: 'PING', …}
+15:55:08.792 wsApi.js:306 <<< get PONG
+15:55:13.184 remote-desktop.spice.js:181 [oeidp] setResolution error {width: 1616, height: 244, remoteStatus: null}
+15:55:18.801 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 43, method: 'PING', …}
+15:55:18.802 wsApi.js:306 <<< get PONG
+15:55:28.811 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 44, method: 'PING', …}
+15:55:28.811 wsApi.js:306 <<< get PONG
+15:55:38.819 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 45, method: 'PING', …}
+15:55:39.133 wsApi.js:306 <<< get PONG
+15:55:41.541 remote-desktop.spice.js:181 [oeidp] setResolution error {width: 1616, height: 198, remoteStatus: null}
+15:55:49.148 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 46, method: 'PING', …}
+15:55:49.149 wsApi.js:306 <<< get PONG
+15:55:59.152 wsApi.js:168 >>> PING {browser_id: 'e36bfa07-4324-4b21-a2c4-5cc4ec0b99f5', client_mac: 'B1:jR:2a:EW:NB:BV', user_id: 37, callback_id: 47, method: 'PING', …}
+15:55:59.153 wsApi.js:306 <<< get PONG

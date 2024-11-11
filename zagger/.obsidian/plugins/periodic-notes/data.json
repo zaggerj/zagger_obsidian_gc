@@ -1,0 +1,32 @@
+{
+  "showGettingStartedBanner": true,
+  "hasMigratedDailyNoteSettings": true,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "yyyy年MM月DD日",
+    "folder": "000 - 每日日记/DailyNote",
+    "template": "040 - Obsidian/模板/tp-每日日记模板",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "gggg年ww周记录",
+    "template": "040 - Obsidian/模板/tp-每周周记模板.md",
+    "folder": "000 - 每日日记/WeeklyNote",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "quarterly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "yearly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  }
+}

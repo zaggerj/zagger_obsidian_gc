@@ -1,0 +1,4572 @@
+{
+  "workspaces": {
+    "20240614": {
+      "main": {
+        "id": "dce483c947405da3",
+        "type": "split",
+        "children": [
+          {
+            "id": "1fdf9e22418e680e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ac889d97c8c0678e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "040 - Obsidian/主页/00. 主页.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "e1787fc4e42726d5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "020 - 工作学习/学习/后端/服务器相关知识/a 服务器相关命令.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "5de2c6bd528bdf57",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "000 - 每日日记/WeeklyNote/2024年23周记录.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "95142cd71ccbb3ba",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5744113929e8f888",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "040 - Obsidian/主页/每日网站打开.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "81799477ff15f566",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "004 - Resource/资源/各种软件/vim学习/vim使用技巧.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "1c24015cf0596933",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "020 - 工作学习/学习/后端/bash/shell脚本编写.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "d24ff3d14be2d552",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "020 - 工作学习/学习/后端/linux/00.linux学习清单.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "3fbf138e597d8ec4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "000 - 每日日记/DailyNote/2024年06月14日.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "23163e226ba1253c",
+        "type": "split",
+        "children": [
+          {
+            "id": "284346499ce2ea86",
+            "type": "tabs",
+            "dimension": 80.38067349926794,
+            "children": [
+              {
+                "id": "23fad819ff207865",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "03fb6b7e157ad75a",
+                "type": "leaf",
+                "state": {
+                  "type": "tagfolder-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "f2b0ffe519625a29",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#📥/💭",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "8cdc7c8bed089ab9",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "73db95bfb166faa1",
+            "type": "tabs",
+            "dimension": 19.619326500732065,
+            "children": [
+              {
+                "id": "8b6d8c7e5231700f",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "0b0cb56ba2aa4a0a",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 243.5
+      },
+      "right": {
+        "id": "49b0f6d6f173189c",
+        "type": "split",
+        "children": [
+          {
+            "id": "6d5d1a69e107f675",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "60f931c5f80841ed",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "000 - 每日日记/WeeklyNote/2024年23周记录.md"
+                  }
+                }
+              },
+              {
+                "id": "587097c7d3e0dc04",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "6480c2a734e3c425",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "000 - 每日日记/WeeklyNote/2024年23周记录.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "6355d30f474216e7",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "000 - 每日日记/WeeklyNote/2024年23周记录.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "588ad9f7ff43be3a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "000 - 每日日记/WeeklyNote/2024年23周记录.md"
+                  }
+                }
+              },
+              {
+                "id": "113fb1d05a8132cc",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  }
+                }
+              },
+              {
+                "id": "205b6b1366ed05ed",
+                "type": "leaf",
+                "state": {
+                  "type": "timeline",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "888c3f3084370af3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1e6fe91e5170d39b",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "71f5f5cf796e19c3",
+                "type": "leaf",
+                "state": {
+                  "type": "timeline",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 313
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "markdown-importer:打开 Markdown 格式转换器": false,
+          "zk-prefixer:创建时间戳笔记": false,
+          "random-note:开始漫游笔记": false,
+          "audio-recorder:开始/结束录音": false,
+          "workspaces:管理工作区布局": false,
+          "cmdr:折叠": true,
+          "obsidian-day-planner:Timeline": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "obsidian-kanban:创建新看板": false,
+          "periodic-notes:Open today": false
+        }
+      },
+      "active": "5de2c6bd528bdf57",
+      "mtime": "2024-06-14T09:55:13+08:00"
+    },
+    "20420609": {
+      "main": {
+        "id": "dce483c947405da3",
+        "type": "split",
+        "children": [
+          {
+            "id": "1fdf9e22418e680e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ac889d97c8c0678e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "040 - Obsidian/主页/00. 主页.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "e1787fc4e42726d5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "020 - 工作学习/学习/后端/服务器相关知识/a 服务器相关命令.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "145703b60bd15ba1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "020 - 工作学习/学习/后端/服务器相关知识/a 服务器相关命令.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "51098d1c7d32989d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "000 - 每日日记/WeeklyNote/2024年22周记录.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "5de2c6bd528bdf57",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "000 - 每日日记/WeeklyNote/2024年23周记录.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "95142cd71ccbb3ba",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a68b0fc204a9de90",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "000 - 每日日记/WeeklyNote/2024年03周记录.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "5744113929e8f888",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "040 - Obsidian/主页/每日网站打开.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "81799477ff15f566",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "004 - Resource/资源/各种软件/vim学习/vim使用技巧.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "1c24015cf0596933",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "020 - 工作学习/学习/后端/bash/shell脚本编写.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "419a0d471b8acc19",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "000 - 每日日记/DailyNote/2024年06月05日.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "9b843040ba1b32a7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "000 - 每日日记/DailyNote/2024年06月06日.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "56290225b68fe8bb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "000 - 每日日记/DailyNote/2024年06月03日.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "082d646a5be53307",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "000 - 每日日记/DailyNote/2024年06月06日.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "6b27bb438e58ecd1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "000 - 每日日记/DailyNote/2024年06月07日.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 8
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "23163e226ba1253c",
+        "type": "split",
+        "children": [
+          {
+            "id": "284346499ce2ea86",
+            "type": "tabs",
+            "dimension": 80.38067349926794,
+            "children": [
+              {
+                "id": "23fad819ff207865",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "03fb6b7e157ad75a",
+                "type": "leaf",
+                "state": {
+                  "type": "tagfolder-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "f2b0ffe519625a29",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "/var/www/html/js/libs/oeidp/oeidp",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "8cdc7c8bed089ab9",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "73db95bfb166faa1",
+            "type": "tabs",
+            "dimension": 19.619326500732065,
+            "children": [
+              {
+                "id": "8b6d8c7e5231700f",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "0b0cb56ba2aa4a0a",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 243.5
+      },
+      "right": {
+        "id": "49b0f6d6f173189c",
+        "type": "split",
+        "children": [
+          {
+            "id": "6d5d1a69e107f675",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "60f931c5f80841ed",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "020 - 工作学习/学习/后端/服务器相关知识/a 服务器相关命令.md"
+                  }
+                }
+              },
+              {
+                "id": "587097c7d3e0dc04",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "6480c2a734e3c425",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "020 - 工作学习/学习/后端/服务器相关知识/a 服务器相关命令.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "6355d30f474216e7",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "020 - 工作学习/学习/后端/服务器相关知识/a 服务器相关命令.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "588ad9f7ff43be3a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "020 - 工作学习/学习/后端/服务器相关知识/a 服务器相关命令.md"
+                  }
+                }
+              },
+              {
+                "id": "113fb1d05a8132cc",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  }
+                }
+              },
+              {
+                "id": "205b6b1366ed05ed",
+                "type": "leaf",
+                "state": {
+                  "type": "timeline",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "888c3f3084370af3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1e6fe91e5170d39b",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "71f5f5cf796e19c3",
+                "type": "leaf",
+                "state": {
+                  "type": "timeline",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 313
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "markdown-importer:打开 Markdown 格式转换器": false,
+          "zk-prefixer:创建时间戳笔记": false,
+          "random-note:开始漫游笔记": false,
+          "audio-recorder:开始/结束录音": false,
+          "workspaces:管理工作区布局": false,
+          "cmdr:折叠": true,
+          "obsidian-day-planner:Timeline": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "obsidian-kanban:创建新看板": false,
+          "periodic-notes:Open today": false
+        }
+      },
+      "active": "145703b60bd15ba1",
+      "mtime": "2024-06-09T22:10:02+08:00"
+    },
+    "分屏+大纲": {
+      "main": {
+        "id": "5e06d1e8899cf213",
+        "type": "split",
+        "children": [
+          {
+            "id": "acfaa2fab29ee613",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a650d827e05238d1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "记事本/环境安排和软件安装/resilio sync.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "62f87b5ca9f043d1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "The One.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "355948fc29977e60",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "汇总所有在线文档.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 0
+          },
+          {
+            "id": "77e3e68e94870473",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "35fe2c3c6a17dbd1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "汇总所有在线文档.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "518d787edd9ad73c",
+        "type": "split",
+        "children": [
+          {
+            "id": "94e78b54e6b413ec",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e405668c9acc4e8f",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabeticalReverse"
+                  }
+                }
+              },
+              {
+                "id": "ba994e9e34161f6d",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#For",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "753a0c81016932eb",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 342.5
+      },
+      "right": {
+        "id": "b32627c8247c39ff",
+        "type": "split",
+        "children": [
+          {
+            "id": "db8af3358ee98872",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2efce47c01dbf5b9",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "汇总所有在线文档.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "2f112cc56e456c34",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "汇总所有在线文档.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "ce2d93e321b54107",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "ba09a186edfc3095",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "汇总所有在线文档.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 0
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "random-note:开始漫游笔记": false,
+          "workspaces:管理工作区布局": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "obsidian-importer:Open Importer": false,
+          "zk-prefixer:创建时间戳笔记": false,
+          "audio-recorder:开始/结束录音": false
+        }
+      },
+      "active": "ba09a186edfc3095"
+    },
+    "标签": {
+      "main": {
+        "id": "5e06d1e8899cf213",
+        "type": "split",
+        "children": [
+          {
+            "id": "acfaa2fab29ee613",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a650d827e05238d1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "记事本/环境安排和软件安装/resilio sync.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "62f87b5ca9f043d1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "The One.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "355948fc29977e60",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "汇总所有在线文档.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 0
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "518d787edd9ad73c",
+        "type": "split",
+        "children": [
+          {
+            "id": "94e78b54e6b413ec",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e405668c9acc4e8f",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabeticalReverse"
+                  }
+                }
+              },
+              {
+                "id": "ba994e9e34161f6d",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#For",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "753a0c81016932eb",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 342.5
+      },
+      "right": {
+        "id": "b32627c8247c39ff",
+        "type": "split",
+        "children": [
+          {
+            "id": "db8af3358ee98872",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2efce47c01dbf5b9",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "汇总所有在线文档.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "2f112cc56e456c34",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "汇总所有在线文档.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "ce2d93e321b54107",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "ba09a186edfc3095",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "汇总所有在线文档.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 0
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "random-note:开始漫游笔记": false,
+          "workspaces:管理工作区布局": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "obsidian-importer:Open Importer": false,
+          "zk-prefixer:创建时间戳笔记": false,
+          "audio-recorder:开始/结束录音": false
+        }
+      },
+      "active": "355948fc29977e60"
+    },
+    "zagger": {
+      "main": {
+        "id": "dce483c947405da3",
+        "type": "split",
+        "children": [
+          {
+            "id": "8bad4a8dc3ee593e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "805e7ab39f04bdf8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "obsidian使用相关/第4期 Obsidian 必会功能 - 新手入门.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "23163e226ba1253c",
+        "type": "split",
+        "children": [
+          {
+            "id": "284346499ce2ea86",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "23fad819ff207865",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "f2b0ffe519625a29",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "8cdc7c8bed089ab9",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "72af9f44de1e3a7d",
+                "type": "leaf",
+                "state": {
+                  "type": "file-tree-view",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "4b3af2a998aa8343",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8b6d8c7e5231700f",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "0b0cb56ba2aa4a0a",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 0
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "49b0f6d6f173189c",
+        "type": "split",
+        "children": [
+          {
+            "id": "6d5d1a69e107f675",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "60f931c5f80841ed",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "obsidian使用相关/第4期 Obsidian 必会功能 - 新手入门.md"
+                  }
+                }
+              },
+              {
+                "id": "93bfebab27d6467f",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {}
+                }
+              },
+              {
+                "id": "6480c2a734e3c425",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "obsidian使用相关/第4期 Obsidian 必会功能 - 新手入门.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "6355d30f474216e7",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "obsidian使用相关/第4期 Obsidian 必会功能 - 新手入门.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "113fb1d05a8132cc",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "2f21823614a00f2b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1e6fe91e5170d39b",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-importer:Open Importer": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "mermaid-tools:Open Mermaid Toolbar": false,
+          "obsidian-day-planner:Week plan": false,
+          "obsidian-daily-notes-viewer:打开 Viewer": false,
+          "cmdr:折叠": false,
+          "remotely-save:Remotely Save": false,
+          "custom-sort:Toggle custom sorting": false,
+          "file-tree-alternative:File Tree Alternative Plugin": false,
+          "templater-obsidian:Templater": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "markdown-importer:打开 Markdown 格式转换器": false,
+          "zk-prefixer:创建时间戳笔记": false,
+          "random-note:开始漫游笔记": false,
+          "audio-recorder:开始/结束录音": false,
+          "workspaces:管理工作区布局": false,
+          "obsidian-memos:Memos": false
+        }
+      },
+      "active": "60f931c5f80841ed"
+    },
+    "灵感大爆炸": {
+      "main": {
+        "id": "dce483c947405da3",
+        "type": "split",
+        "children": [
+          {
+            "id": "8878528f51085da6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b1d6cd20fa85b9a5",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "23163e226ba1253c",
+        "type": "split",
+        "children": [
+          {
+            "id": "284346499ce2ea86",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "23fad819ff207865",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "38aa6e6b0fd34d1b",
+                "type": "leaf",
+                "state": {
+                  "type": "tagfolder-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "f2b0ffe519625a29",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "8cdc7c8bed089ab9",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "72af9f44de1e3a7d",
+                "type": "leaf",
+                "state": {
+                  "type": "file-tree-view",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "4b3af2a998aa8343",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8b6d8c7e5231700f",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "0b0cb56ba2aa4a0a",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 0
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "49b0f6d6f173189c",
+        "type": "split",
+        "children": [
+          {
+            "id": "6d5d1a69e107f675",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "60f931c5f80841ed",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "93bfebab27d6467f",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {}
+                }
+              },
+              {
+                "id": "6480c2a734e3c425",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "6355d30f474216e7",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "113fb1d05a8132cc",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "2f21823614a00f2b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1e6fe91e5170d39b",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-importer:Open Importer": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "mermaid-tools:Open Mermaid Toolbar": false,
+          "obsidian-day-planner:Week plan": false,
+          "obsidian-daily-notes-viewer:打开 Viewer": false,
+          "cmdr:折叠": false,
+          "remotely-save:Remotely Save": false,
+          "custom-sort:Toggle custom sorting": false,
+          "file-tree-alternative:File Tree Alternative Plugin": false,
+          "templater-obsidian:Templater": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "markdown-importer:打开 Markdown 格式转换器": false,
+          "zk-prefixer:创建时间戳笔记": false,
+          "random-note:开始漫游笔记": false,
+          "audio-recorder:开始/结束录音": false,
+          "workspaces:管理工作区布局": false,
+          "obsidian-memos:Memos": false
+        }
+      },
+      "active": "b1d6cd20fa85b9a5"
+    },
+    "最终版本？": {
+      "main": {
+        "id": "dce483c947405da3",
+        "type": "split",
+        "children": [
+          {
+            "id": "6a87d7b669fc7088",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "34769fff39143807",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "obsidian使用相关/sortspec.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "9b4e571e6a279447",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "汇总所有在线文档.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "cef15a580f960477",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "obsidian使用相关/obsidian/obsidian教程.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "075a0d24b5917b2c",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "记事本/学习/学习计划脚本/学习清单链接.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ],
+            "currentTab": 0,
+            "stacked": true
+          },
+          {
+            "id": "4db64acc80639efd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "485f85bf76efdba0",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "记事本/学习/学习计划脚本/转换规则总结(巅峰完美诠释文档).md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "23163e226ba1253c",
+        "type": "split",
+        "children": [
+          {
+            "id": "284346499ce2ea86",
+            "type": "tabs",
+            "dimension": 63.58447488584474,
+            "children": [
+              {
+                "id": "23fad819ff207865",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime"
+                  }
+                }
+              },
+              {
+                "id": "03fb6b7e157ad75a",
+                "type": "leaf",
+                "state": {
+                  "type": "tagfolder-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "f2b0ffe519625a29",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "ai",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "8cdc7c8bed089ab9",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "72af9f44de1e3a7d",
+                "type": "leaf",
+                "state": {
+                  "type": "file-tree-view",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "73db95bfb166faa1",
+            "type": "tabs",
+            "dimension": 36.41552511415525,
+            "children": [
+              {
+                "id": "8b6d8c7e5231700f",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "0b0cb56ba2aa4a0a",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 0
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "49b0f6d6f173189c",
+        "type": "split",
+        "children": [
+          {
+            "id": "6d5d1a69e107f675",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "60f931c5f80841ed",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "记事本/学习/学习计划脚本/学习清单链接.md"
+                  }
+                }
+              },
+              {
+                "id": "93bfebab27d6467f",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {}
+                }
+              },
+              {
+                "id": "6480c2a734e3c425",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "记事本/学习/学习计划脚本/学习清单链接.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "6355d30f474216e7",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "记事本/学习/学习计划脚本/学习清单链接.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "113fb1d05a8132cc",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency"
+                  }
+                }
+              },
+              {
+                "id": "588ad9f7ff43be3a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "记事本/学习/学习计划脚本/学习清单链接.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 0
+          },
+          {
+            "id": "888c3f3084370af3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1e6fe91e5170d39b",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 301
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "remotely-save:Remotely Save": false,
+          "obsidian-importer:Open Importer": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "mermaid-tools:Open Mermaid Toolbar": false,
+          "obsidian-day-planner:Week plan": false,
+          "obsidian-daily-notes-viewer:打开 Viewer": false,
+          "cmdr:折叠": false,
+          "custom-sort:Toggle custom sorting": false,
+          "file-tree-alternative:File Tree Alternative Plugin": false,
+          "templater-obsidian:Templater": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "markdown-importer:打开 Markdown 格式转换器": false,
+          "zk-prefixer:创建时间戳笔记": false,
+          "random-note:开始漫游笔记": false,
+          "audio-recorder:开始/结束录音": false,
+          "workspaces:管理工作区布局": false,
+          "obsidian-memos:Memos": false
+        }
+      },
+      "active": "075a0d24b5917b2c"
+    },
+    "最终版本": {
+      "main": {
+        "id": "dce483c947405da3",
+        "type": "split",
+        "children": [
+          {
+            "id": "6a87d7b669fc7088",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "34769fff39143807",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "obsidian使用相关/sortspec.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "9b4e571e6a279447",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "汇总所有在线文档.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "cef15a580f960477",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "obsidian使用相关/obsidian/obsidian教程.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "075a0d24b5917b2c",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "记事本/学习/学习计划脚本/学习清单链接.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "485f85bf76efdba0",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "记事本/学习/学习计划脚本/转换规则总结(巅峰完美诠释文档).md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "bb5721b68a41b270",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "记事本/工作/工作计划（未完成）/最新工作安排/最新工作安排.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "aff108532752abc9",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "记事本/工作/工作计划（未完成）/最新工作安排/未完成工作计划/idp.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "34cc23fd733a36af",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "记事本/工作/工作计划（未完成）/最新工作安排/未完成工作计划/idp制定.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 0,
+            "stacked": true
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "23163e226ba1253c",
+        "type": "split",
+        "children": [
+          {
+            "id": "284346499ce2ea86",
+            "type": "tabs",
+            "dimension": 63.58447488584474,
+            "children": [
+              {
+                "id": "23fad819ff207865",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime"
+                  }
+                }
+              },
+              {
+                "id": "03fb6b7e157ad75a",
+                "type": "leaf",
+                "state": {
+                  "type": "tagfolder-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "f2b0ffe519625a29",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "ai",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "8cdc7c8bed089ab9",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "72af9f44de1e3a7d",
+                "type": "leaf",
+                "state": {
+                  "type": "file-tree-view",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "73db95bfb166faa1",
+            "type": "tabs",
+            "dimension": 36.41552511415525,
+            "children": [
+              {
+                "id": "8b6d8c7e5231700f",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "0b0cb56ba2aa4a0a",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 0
+          }
+        ],
+        "direction": "horizontal",
+        "width": 401
+      },
+      "right": {
+        "id": "49b0f6d6f173189c",
+        "type": "split",
+        "children": [
+          {
+            "id": "6d5d1a69e107f675",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "60f931c5f80841ed",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "记事本/学习/学习计划脚本/学习清单链接.md"
+                  }
+                }
+              },
+              {
+                "id": "93bfebab27d6467f",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {}
+                }
+              },
+              {
+                "id": "6480c2a734e3c425",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "记事本/学习/学习计划脚本/学习清单链接.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "6355d30f474216e7",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "记事本/学习/学习计划脚本/学习清单链接.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "113fb1d05a8132cc",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency"
+                  }
+                }
+              },
+              {
+                "id": "588ad9f7ff43be3a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "记事本/学习/学习计划脚本/学习清单链接.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 0
+          },
+          {
+            "id": "888c3f3084370af3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1e6fe91e5170d39b",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 301
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "remotely-save:Remotely Save": false,
+          "obsidian-importer:Open Importer": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "mermaid-tools:Open Mermaid Toolbar": false,
+          "obsidian-day-planner:Week plan": false,
+          "obsidian-daily-notes-viewer:打开 Viewer": false,
+          "cmdr:折叠": false,
+          "custom-sort:Toggle custom sorting": false,
+          "file-tree-alternative:File Tree Alternative Plugin": false,
+          "templater-obsidian:Templater": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "markdown-importer:打开 Markdown 格式转换器": false,
+          "zk-prefixer:创建时间戳笔记": false,
+          "random-note:开始漫游笔记": false,
+          "audio-recorder:开始/结束录音": false,
+          "workspaces:管理工作区布局": false,
+          "obsidian-memos:Memos": false
+        }
+      },
+      "active": "075a0d24b5917b2c"
+    },
+    "homepage": {
+      "main": {
+        "id": "dce483c947405da3",
+        "type": "split",
+        "children": [
+          {
+            "id": "101193a74273c938",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d835b58d6ad1a6d7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "040 - Obsidian/主页/00. 主页.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "23163e226ba1253c",
+        "type": "split",
+        "children": [
+          {
+            "id": "284346499ce2ea86",
+            "type": "tabs",
+            "dimension": 80.38067349926794,
+            "children": [
+              {
+                "id": "23fad819ff207865",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byModifiedTime"
+                  }
+                }
+              },
+              {
+                "id": "03fb6b7e157ad75a",
+                "type": "leaf",
+                "state": {
+                  "type": "tagfolder-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "f2b0ffe519625a29",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "html5",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "8cdc7c8bed089ab9",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "72af9f44de1e3a7d",
+                "type": "leaf",
+                "state": {
+                  "type": "file-tree-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "b1705953f1ac2acf",
+                "type": "leaf",
+                "state": {
+                  "type": "tagfolder-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "5ca620075b6a18da",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-tab-tree",
+                  "state": {}
+                }
+              },
+              {
+                "id": "9c81ad1bc1d69a1a",
+                "type": "leaf",
+                "state": {
+                  "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+                  "state": {}
+                }
+              },
+              {
+                "id": "2bc6335185a15709",
+                "type": "leaf",
+                "state": {
+                  "type": "tagfolder-view",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "73db95bfb166faa1",
+            "type": "tabs",
+            "dimension": 19.619326500732065,
+            "children": [
+              {
+                "id": "8b6d8c7e5231700f",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "0b0cb56ba2aa4a0a",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": false
+                  }
+                }
+              },
+              {
+                "id": "cd06d04dbc147ecb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "040 - Obsidian/主页/00. 导航.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 0
+          }
+        ],
+        "direction": "horizontal",
+        "width": 296
+      },
+      "right": {
+        "id": "49b0f6d6f173189c",
+        "type": "split",
+        "children": [
+          {
+            "id": "6d5d1a69e107f675",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "60f931c5f80841ed",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "040 - Obsidian/主页/00. 导航.md"
+                  }
+                }
+              },
+              {
+                "id": "93bfebab27d6467f",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {}
+                }
+              },
+              {
+                "id": "587097c7d3e0dc04",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "6480c2a734e3c425",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "040 - Obsidian/主页/00. 导航.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "6355d30f474216e7",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "040 - Obsidian/主页/00. 导航.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "588ad9f7ff43be3a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "040 - Obsidian/主页/00. 导航.md"
+                  }
+                }
+              },
+              {
+                "id": "113fb1d05a8132cc",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency"
+                  }
+                }
+              },
+              {
+                "id": "a9e5936d53b3df5a",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 0
+          },
+          {
+            "id": "888c3f3084370af3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1e6fe91e5170d39b",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "b6fec8d35877681a",
+                "type": "leaf",
+                "state": {
+                  "type": "timeline",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 0
+          }
+        ],
+        "direction": "horizontal",
+        "width": 313
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "homepage:Open homepage": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "markdown-importer:打开 Markdown 格式转换器": true,
+          "zk-prefixer:创建时间戳笔记": true,
+          "random-note:开始漫游笔记": true,
+          "audio-recorder:开始/结束录音": false,
+          "workspaces:管理工作区布局": false,
+          "obsidian-importer:Open Importer": true,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "mermaid-tools:Open Mermaid Toolbar": true,
+          "obsidian-day-planner:Timeline": true,
+          "cmdr:折叠": false,
+          "custom-sort:Toggle custom sorting": false,
+          "file-tree-alternative:File Tree Alternative Plugin": true,
+          "templater-obsidian:Templater": true,
+          "remotely-save:Remotely Save": false,
+          "float-search:Search Obsidian In Modal": false,
+          "dbfolder:创建一个新数据库表": true,
+          "surfing:surfing-bookmark-manager": false,
+          "big-calendar:Big Calendar": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": true,
+          "obsidian-memos:Memos": false
+        }
+      },
+      "active": "cd06d04dbc147ecb"
+    },
+    "最终版本!": {
+      "main": {
+        "id": "dce483c947405da3",
+        "type": "split",
+        "children": [
+          {
+            "id": "2f79ae7262563dcb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c2e68e795ce08680",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "040 - Obsidian/主页/00. 主页.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "23163e226ba1253c",
+        "type": "split",
+        "children": [
+          {
+            "id": "284346499ce2ea86",
+            "type": "tabs",
+            "dimension": 80.38067349926794,
+            "children": [
+              {
+                "id": "23fad819ff207865",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "03fb6b7e157ad75a",
+                "type": "leaf",
+                "state": {
+                  "type": "tagfolder-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "f2b0ffe519625a29",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "8cdc7c8bed089ab9",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "72af9f44de1e3a7d",
+                "type": "leaf",
+                "state": {
+                  "type": "file-tree-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "b1705953f1ac2acf",
+                "type": "leaf",
+                "state": {
+                  "type": "tagfolder-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "5ca620075b6a18da",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-tab-tree",
+                  "state": {}
+                }
+              },
+              {
+                "id": "9c81ad1bc1d69a1a",
+                "type": "leaf",
+                "state": {
+                  "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+                  "state": {}
+                }
+              },
+              {
+                "id": "2bc6335185a15709",
+                "type": "leaf",
+                "state": {
+                  "type": "tagfolder-view",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "73db95bfb166faa1",
+            "type": "tabs",
+            "dimension": 19.619326500732065,
+            "children": [
+              {
+                "id": "8b6d8c7e5231700f",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "0b0cb56ba2aa4a0a",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 0
+          }
+        ],
+        "direction": "horizontal",
+        "width": 275.5
+      },
+      "right": {
+        "id": "49b0f6d6f173189c",
+        "type": "split",
+        "children": [
+          {
+            "id": "6d5d1a69e107f675",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "60f931c5f80841ed",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "040 - Obsidian/主页/00. 主页.md"
+                  }
+                }
+              },
+              {
+                "id": "93bfebab27d6467f",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {}
+                }
+              },
+              {
+                "id": "587097c7d3e0dc04",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "6480c2a734e3c425",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "040 - Obsidian/主页/00. 主页.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "6355d30f474216e7",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "040 - Obsidian/主页/00. 主页.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "588ad9f7ff43be3a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "040 - Obsidian/主页/00. 主页.md"
+                  }
+                }
+              },
+              {
+                "id": "113fb1d05a8132cc",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency"
+                  }
+                }
+              },
+              {
+                "id": "a9e5936d53b3df5a",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "ea63b226e54a803d",
+                "type": "leaf",
+                "state": {
+                  "type": "tasks_timeline_view",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 0
+          },
+          {
+            "id": "888c3f3084370af3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1e6fe91e5170d39b",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "b6fec8d35877681a",
+                "type": "leaf",
+                "state": {
+                  "type": "timeline",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 313
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "homepage:Open homepage": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-full-calendar:Open Full Calendar": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "markdown-importer:打开 Markdown 格式转换器": false,
+          "zk-prefixer:创建时间戳笔记": false,
+          "random-note:开始漫游笔记": false,
+          "audio-recorder:开始/结束录音": false,
+          "workspaces:管理工作区布局": false,
+          "obsidian-importer:Open Importer": true,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "mermaid-tools:Open Mermaid Toolbar": false,
+          "obsidian-day-planner:Timeline": false,
+          "cmdr:折叠": true,
+          "custom-sort:Toggle custom sorting": false,
+          "file-tree-alternative:File Tree Alternative Plugin": true,
+          "float-search:Search Obsidian In Modal": false,
+          "surfing:surfing-bookmark-manager": false,
+          "big-calendar:Big Calendar": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "omnisearch:Omnisearch": false,
+          "periodic-notes:Open today": false,
+          "obsidian-memos:Memos": false
+        }
+      },
+      "active": "23fad819ff207865"
+    },
+    "final": {
+      "main": {
+        "id": "dce483c947405da3",
+        "type": "split",
+        "children": [
+          {
+            "id": "646cb227271bcdf5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9bb4e17f6e05c34e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "040 - Obsidian/主页/00. 主页.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "23163e226ba1253c",
+        "type": "split",
+        "children": [
+          {
+            "id": "284346499ce2ea86",
+            "type": "tabs",
+            "dimension": 80.38067349926794,
+            "children": [
+              {
+                "id": "23fad819ff207865",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "03fb6b7e157ad75a",
+                "type": "leaf",
+                "state": {
+                  "type": "tagfolder-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "f2b0ffe519625a29",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "8cdc7c8bed089ab9",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "5ca620075b6a18da",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-tab-tree",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "73db95bfb166faa1",
+            "type": "tabs",
+            "dimension": 19.619326500732065,
+            "children": [
+              {
+                "id": "8b6d8c7e5231700f",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "0b0cb56ba2aa4a0a",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 275.5
+      },
+      "right": {
+        "id": "49b0f6d6f173189c",
+        "type": "split",
+        "children": [
+          {
+            "id": "6d5d1a69e107f675",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "60f931c5f80841ed",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "040 - Obsidian/主页/00. 主页.md"
+                  }
+                }
+              },
+              {
+                "id": "93bfebab27d6467f",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {}
+                }
+              },
+              {
+                "id": "587097c7d3e0dc04",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "6480c2a734e3c425",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "040 - Obsidian/主页/00. 主页.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "6355d30f474216e7",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "040 - Obsidian/主页/00. 主页.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "588ad9f7ff43be3a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "040 - Obsidian/主页/00. 主页.md"
+                  }
+                }
+              },
+              {
+                "id": "113fb1d05a8132cc",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency"
+                  }
+                }
+              },
+              {
+                "id": "a9e5936d53b3df5a",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8eb2ddc65691d6b8",
+                "type": "leaf",
+                "state": {
+                  "type": "tasks_timeline_view",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "888c3f3084370af3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1e6fe91e5170d39b",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "b6fec8d35877681a",
+                "type": "leaf",
+                "state": {
+                  "type": "timeline",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 313
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "homepage:Open homepage": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-full-calendar:Open Full Calendar": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "markdown-importer:打开 Markdown 格式转换器": false,
+          "zk-prefixer:创建时间戳笔记": false,
+          "random-note:开始漫游笔记": false,
+          "audio-recorder:开始/结束录音": false,
+          "workspaces:管理工作区布局": false,
+          "obsidian-importer:Open Importer": true,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "mermaid-tools:Open Mermaid Toolbar": false,
+          "obsidian-day-planner:Timeline": false,
+          "cmdr:折叠": true,
+          "custom-sort:Toggle custom sorting": false,
+          "float-search:Search Obsidian In Modal": false,
+          "surfing:surfing-bookmark-manager": false,
+          "big-calendar:Big Calendar": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "omnisearch:Omnisearch": false,
+          "periodic-notes:Open today": false,
+          "obsidian-memos:Memos": false
+        }
+      },
+      "active": "9bb4e17f6e05c34e"
+    },
+    "学习模式": {
+      "main": {
+        "id": "dce483c947405da3",
+        "type": "split",
+        "children": [
+          {
+            "id": "6c3a16ec9ed8fd81",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "edd0eeee7f2e5f64",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "040 - Obsidian/主页/00. 主页.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "cb14d622288a37c2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "020 - 工作学习/学习计划脚本/js文档学习笔记/浏览器：文档，事件，接口/UI 事件/dragenter.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "67782a6e0a9fdc2e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "004 - Resource/资源/各种软件/vim学习/vim使用技巧.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "c2ee1f598a74ff49",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "204556cd147e5aca",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "000 - 每日日记/DailyNote/2023年12月20日.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "fe6bb7f6b3cb13e5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "000 - 每日日记/WeeklyNote/2023年51周记录.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "23163e226ba1253c",
+        "type": "split",
+        "children": [
+          {
+            "id": "284346499ce2ea86",
+            "type": "tabs",
+            "dimension": 80.38067349926794,
+            "children": [
+              {
+                "id": "23fad819ff207865",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "03fb6b7e157ad75a",
+                "type": "leaf",
+                "state": {
+                  "type": "tagfolder-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "f2b0ffe519625a29",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "8cdc7c8bed089ab9",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "73db95bfb166faa1",
+            "type": "tabs",
+            "dimension": 19.619326500732065,
+            "children": [
+              {
+                "id": "8b6d8c7e5231700f",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "0b0cb56ba2aa4a0a",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 376.5
+      },
+      "right": {
+        "id": "49b0f6d6f173189c",
+        "type": "split",
+        "children": [
+          {
+            "id": "6d5d1a69e107f675",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "60f931c5f80841ed",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "020 - 工作学习/学习计划脚本/js文档学习笔记/浏览器：文档，事件，接口/UI 事件/dragenter.md"
+                  }
+                }
+              },
+              {
+                "id": "93bfebab27d6467f",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {}
+                }
+              },
+              {
+                "id": "587097c7d3e0dc04",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "6480c2a734e3c425",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "020 - 工作学习/学习计划脚本/js文档学习笔记/浏览器：文档，事件，接口/UI 事件/dragenter.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "6355d30f474216e7",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "020 - 工作学习/学习计划脚本/js文档学习笔记/浏览器：文档，事件，接口/UI 事件/dragenter.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "588ad9f7ff43be3a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "020 - 工作学习/学习计划脚本/js文档学习笔记/浏览器：文档，事件，接口/UI 事件/dragenter.md"
+                  }
+                }
+              },
+              {
+                "id": "113fb1d05a8132cc",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency"
+                  }
+                }
+              },
+              {
+                "id": "a9e5936d53b3df5a",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "9433d637ecb53a61",
+                "type": "leaf",
+                "state": {
+                  "type": "tasks_timeline_view",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "888c3f3084370af3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1e6fe91e5170d39b",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 313
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "homepage:Open homepage": false,
+          "obsidian-full-calendar:Open Full Calendar": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "markdown-importer:打开 Markdown 格式转换器": false,
+          "zk-prefixer:创建时间戳笔记": false,
+          "random-note:开始漫游笔记": false,
+          "audio-recorder:开始/结束录音": false,
+          "workspaces:管理工作区布局": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "cmdr:折叠": true,
+          "big-calendar:Big Calendar": false,
+          "periodic-notes:Open today": false,
+          "obsidian-memos:Memos": false,
+          "obsidian-day-planner:Timeline": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "omnisearch:Omnisearch": false,
+          "custom-sort:Toggle custom sorting": false,
+          "mermaid-tools:Open Mermaid Toolbar": false,
+          "local-backup:Run local backup": false
+        }
+      },
+      "active": "cb14d622288a37c2"
+    },
+    "2023-12-29": {
+      "main": {
+        "id": "dce483c947405da3",
+        "type": "split",
+        "children": [
+          {
+            "id": "646cb227271bcdf5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9bb4e17f6e05c34e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "040 - Obsidian/主页/00. 主页.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "1b3a376ac1fd0e7d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "000 - 每日日记/DailyNote/2023年12月28日.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "bfb4af1262df44e1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0cd175df8e2fd2d1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "000 - 每日日记/DailyNote/2023年12月29日.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "70ddf7b28d632494",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "000 - 每日日记/WeeklyNote/2023年52周记录.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "0ed648065e50d593",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "23163e226ba1253c",
+        "type": "split",
+        "children": [
+          {
+            "id": "284346499ce2ea86",
+            "type": "tabs",
+            "dimension": 80.38067349926794,
+            "children": [
+              {
+                "id": "23fad819ff207865",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "03fb6b7e157ad75a",
+                "type": "leaf",
+                "state": {
+                  "type": "tagfolder-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "f2b0ffe519625a29",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "8cdc7c8bed089ab9",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "5ca620075b6a18da",
+                "type": "leaf",
+                "state": {
+                  "type": "surfing-tab-tree",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "73db95bfb166faa1",
+            "type": "tabs",
+            "dimension": 19.619326500732065,
+            "children": [
+              {
+                "id": "8b6d8c7e5231700f",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "0b0cb56ba2aa4a0a",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 275.5
+      },
+      "right": {
+        "id": "49b0f6d6f173189c",
+        "type": "split",
+        "children": [
+          {
+            "id": "6d5d1a69e107f675",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "60f931c5f80841ed",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "000 - 每日日记/DailyNote/2023年12月28日.md"
+                  }
+                }
+              },
+              {
+                "id": "93bfebab27d6467f",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {}
+                }
+              },
+              {
+                "id": "587097c7d3e0dc04",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "6480c2a734e3c425",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "000 - 每日日记/DailyNote/2023年12月28日.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "6355d30f474216e7",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "000 - 每日日记/DailyNote/2023年12月28日.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "588ad9f7ff43be3a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "000 - 每日日记/DailyNote/2023年12月28日.md"
+                  }
+                }
+              },
+              {
+                "id": "113fb1d05a8132cc",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  }
+                }
+              },
+              {
+                "id": "a9e5936d53b3df5a",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8eb2ddc65691d6b8",
+                "type": "leaf",
+                "state": {
+                  "type": "tasks_timeline_view",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "888c3f3084370af3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1e6fe91e5170d39b",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "b6fec8d35877681a",
+                "type": "leaf",
+                "state": {
+                  "type": "timeline",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 313
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "local-backup:Run local backup": false,
+          "homepage:Open homepage": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-full-calendar:Open Full Calendar": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "markdown-importer:打开 Markdown 格式转换器": false,
+          "zk-prefixer:创建时间戳笔记": false,
+          "random-note:开始漫游笔记": false,
+          "audio-recorder:开始/结束录音": false,
+          "workspaces:管理工作区布局": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "mermaid-tools:Open Mermaid Toolbar": false,
+          "obsidian-day-planner:Timeline": false,
+          "cmdr:折叠": true,
+          "custom-sort:Toggle custom sorting": false,
+          "big-calendar:Big Calendar": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "omnisearch:Omnisearch": false,
+          "periodic-notes:Open today": false,
+          "obsidian-memos:Memos": false
+        }
+      },
+      "active": "1b3a376ac1fd0e7d"
+    },
+    "2024-01-09": {
+      "main": {
+        "id": "dce483c947405da3",
+        "type": "split",
+        "children": [
+          {
+            "id": "37bd5ad5d8c2cb09",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0bb5a066b63468db",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "040 - Obsidian/主页/00. 主页.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "9c5f525ff44bae6c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "020 - 工作学习/学习/后端/服务器相关知识/a 服务器相关命令.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "b575b06a573eb579",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "000 - 每日日记/DailyNote/2024年01月08日.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "b629adae7d2209cc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "000 - 每日日记/DailyNote/2024年01月09日.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "1ed0d7459563219a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "004 - Resource/资源/各种软件/vim学习/vim使用技巧.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 4
+          },
+          {
+            "id": "a57601ccff2cac00",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "968910e468a23d3c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "040 - Obsidian/模板/tp-每周周记模板.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "cff77c97c0c0717e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "040 - Obsidian/模板/tp-每日日记模板.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c351f53bdd5bad1c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "000 - 每日日记/WeeklyNote/2024年02周记录.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "2681c3e10f37d814",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "000 - 每日日记/DailyNote/2024年01月04日.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "ba1230f7c70841a1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "020 - 工作学习/工作/远程、定制化/项目定制开发和远程.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "23163e226ba1253c",
+        "type": "split",
+        "children": [
+          {
+            "id": "284346499ce2ea86",
+            "type": "tabs",
+            "dimension": 80.38067349926794,
+            "children": [
+              {
+                "id": "23fad819ff207865",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "03fb6b7e157ad75a",
+                "type": "leaf",
+                "state": {
+                  "type": "tagfolder-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "f2b0ffe519625a29",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "token",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "8cdc7c8bed089ab9",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "73db95bfb166faa1",
+            "type": "tabs",
+            "dimension": 19.619326500732065,
+            "children": [
+              {
+                "id": "8b6d8c7e5231700f",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "0b0cb56ba2aa4a0a",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 243.5
+      },
+      "right": {
+        "id": "49b0f6d6f173189c",
+        "type": "split",
+        "children": [
+          {
+            "id": "6d5d1a69e107f675",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "60f931c5f80841ed",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "004 - Resource/资源/各种软件/vim学习/vim使用技巧.md"
+                  }
+                }
+              },
+              {
+                "id": "587097c7d3e0dc04",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "6480c2a734e3c425",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "004 - Resource/资源/各种软件/vim学习/vim使用技巧.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "6355d30f474216e7",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "004 - Resource/资源/各种软件/vim学习/vim使用技巧.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "588ad9f7ff43be3a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "004 - Resource/资源/各种软件/vim学习/vim使用技巧.md"
+                  }
+                }
+              },
+              {
+                "id": "113fb1d05a8132cc",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  }
+                }
+              },
+              {
+                "id": "a9e5936d53b3df5a",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "261791b9d25590a1",
+                "type": "leaf",
+                "state": {
+                  "type": "tasks_timeline_view",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 7
+          },
+          {
+            "id": "888c3f3084370af3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1e6fe91e5170d39b",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "b6fec8d35877681a",
+                "type": "leaf",
+                "state": {
+                  "type": "timeline",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 313
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "local-backup:Run local backup": false,
+          "homepage:Open homepage": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-full-calendar:Open Full Calendar": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "markdown-importer:打开 Markdown 格式转换器": false,
+          "zk-prefixer:创建时间戳笔记": false,
+          "random-note:开始漫游笔记": false,
+          "audio-recorder:开始/结束录音": false,
+          "workspaces:管理工作区布局": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "mermaid-tools:Open Mermaid Toolbar": false,
+          "obsidian-day-planner:Timeline": false,
+          "cmdr:折叠": true,
+          "custom-sort:Toggle custom sorting": false,
+          "big-calendar:Big Calendar": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "omnisearch:Omnisearch": false,
+          "periodic-notes:Open today": false,
+          "obsidian-memos:Memos": false
+        }
+      },
+      "active": "1ed0d7459563219a"
+    },
+    "2024-01-16": {
+      "main": {
+        "id": "dce483c947405da3",
+        "type": "split",
+        "children": [
+          {
+            "id": "1fdf9e22418e680e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ac889d97c8c0678e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "040 - Obsidian/主页/00. 主页.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "e1787fc4e42726d5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "020 - 工作学习/学习/后端/服务器相关知识/a 服务器相关命令.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "ec0f4846098f6579",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "000 - 每日日记/DailyNote/2024年01月16日.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "ab7b54fa94ff55bc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "000 - 每日日记/WeeklyNote/2024年03周记录.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "95142cd71ccbb3ba",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a68b0fc204a9de90",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "000 - 每日日记/WeeklyNote/2024年03周记录.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "5744113929e8f888",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "040 - Obsidian/主页/每日网站打开.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "81799477ff15f566",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "004 - Resource/资源/各种软件/vim学习/vim使用技巧.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "1c24015cf0596933",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "020 - 工作学习/学习/后端/bash/shell脚本编写.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "23163e226ba1253c",
+        "type": "split",
+        "children": [
+          {
+            "id": "284346499ce2ea86",
+            "type": "tabs",
+            "dimension": 80.38067349926794,
+            "children": [
+              {
+                "id": "23fad819ff207865",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "03fb6b7e157ad75a",
+                "type": "leaf",
+                "state": {
+                  "type": "tagfolder-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "f2b0ffe519625a29",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "token",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "8cdc7c8bed089ab9",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "73db95bfb166faa1",
+            "type": "tabs",
+            "dimension": 19.619326500732065,
+            "children": [
+              {
+                "id": "8b6d8c7e5231700f",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "0b0cb56ba2aa4a0a",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 243.5
+      },
+      "right": {
+        "id": "49b0f6d6f173189c",
+        "type": "split",
+        "children": [
+          {
+            "id": "6d5d1a69e107f675",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "60f931c5f80841ed",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "020 - 工作学习/学习/后端/服务器相关知识/a 服务器相关命令.md"
+                  }
+                }
+              },
+              {
+                "id": "587097c7d3e0dc04",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "6480c2a734e3c425",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "020 - 工作学习/学习/后端/服务器相关知识/a 服务器相关命令.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "6355d30f474216e7",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "020 - 工作学习/学习/后端/服务器相关知识/a 服务器相关命令.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "588ad9f7ff43be3a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "020 - 工作学习/学习/后端/服务器相关知识/a 服务器相关命令.md"
+                  }
+                }
+              },
+              {
+                "id": "113fb1d05a8132cc",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  }
+                }
+              },
+              {
+                "id": "a9e5936d53b3df5a",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "46757a638bfb6316",
+                "type": "leaf",
+                "state": {
+                  "type": "tasks_timeline_view",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 7
+          },
+          {
+            "id": "888c3f3084370af3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1e6fe91e5170d39b",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "b6fec8d35877681a",
+                "type": "leaf",
+                "state": {
+                  "type": "timeline",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 313
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "local-backup:Run local backup": false,
+          "homepage:Open homepage": false,
+          "obsidian-full-calendar:Open Full Calendar": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "markdown-importer:打开 Markdown 格式转换器": false,
+          "zk-prefixer:创建时间戳笔记": false,
+          "random-note:开始漫游笔记": false,
+          "audio-recorder:开始/结束录音": false,
+          "workspaces:管理工作区布局": false,
+          "mermaid-tools:Open Mermaid Toolbar": false,
+          "obsidian-day-planner:Timeline": false,
+          "cmdr:折叠": true,
+          "custom-sort:Toggle custom sorting": false,
+          "big-calendar:Big Calendar": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "omnisearch:Omnisearch": false,
+          "periodic-notes:Open today": false,
+          "obsidian-memos:Memos": false
+        }
+      },
+      "active": "46757a638bfb6316"
+    }
+  },
+  "active": "20240614"
+}

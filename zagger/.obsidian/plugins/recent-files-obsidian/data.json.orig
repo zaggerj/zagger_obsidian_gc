@@ -1,0 +1,215 @@
+{
+  "recentFiles": [
+    {
+<<<<<<< Updated upstream
+      "basename": "2024年06月07日",
+      "path": "000 - 每日日记/DailyNote/2024年06月07日.md"
+    },
+    {
+      "basename": "a 服务器相关命令",
+      "path": "020 - 工作学习/学习/后端/服务器相关知识/a 服务器相关命令.md"
+    },
+    {
+      "basename": "2024年23周记录",
+      "path": "000 - 每日日记/WeeklyNote/2024年23周记录.md"
+    },
+    {
+      "basename": "2024年22周记录",
+      "path": "000 - 每日日记/WeeklyNote/2024年22周记录.md"
+    },
+    {
+      "basename": "2024年06月06日",
+      "path": "000 - 每日日记/DailyNote/2024年06月06日.md"
+    },
+    {
+      "basename": "2024年06月03日",
+      "path": "000 - 每日日记/DailyNote/2024年06月03日.md"
+    },
+    {
+      "basename": "2024年06月05日",
+      "path": "000 - 每日日记/DailyNote/2024年06月05日.md"
+    },
+    {
+      "basename": "shell脚本编写",
+      "path": "020 - 工作学习/学习/后端/bash/shell脚本编写.md"
+    },
+    {
+      "basename": "2024年06月04日",
+      "path": "000 - 每日日记/DailyNote/2024年06月04日.md"
+    },
+    {
+      "basename": "2024年05月31日",
+      "path": "000 - 每日日记/DailyNote/2024年05月31日.md"
+    },
+    {
+      "basename": "00. 主页",
+      "path": "040 - Obsidian/主页/00. 主页.md"
+    },
+    {
+      "basename": "2024年05月28日",
+      "path": "000 - 每日日记/DailyNote/2024年05月28日.md"
+    },
+    {
+      "basename": "2024年05月30日",
+      "path": "000 - 每日日记/DailyNote/2024年05月30日.md"
+    },
+    {
+      "basename": "2024年05月29日",
+      "path": "000 - 每日日记/DailyNote/2024年05月29日.md"
+    },
+    {
+      "basename": "汇总所有在线文档",
+      "path": "020 - 工作学习/工作/汇总所有在线文档.md"
+    },
+    {
+      "basename": "2024年05月27日",
+      "path": "000 - 每日日记/DailyNote/2024年05月27日.md"
+    },
+    {
+      "basename": "2024年05月22日",
+      "path": "000 - 每日日记/DailyNote/2024年05月22日.md"
+    },
+    {
+      "basename": "2024年21周记录",
+      "path": "000 - 每日日记/WeeklyNote/2024年21周记录.md"
+    },
+    {
+      "basename": "2024年05月15日",
+      "path": "000 - 每日日记/DailyNote/2024年05月15日.md"
+    },
+    {
+      "basename": "2024年20周记录",
+      "path": "000 - 每日日记/WeeklyNote/2024年20周记录.md"
+    },
+    {
+      "basename": "2024年19周记录",
+      "path": "000 - 每日日记/WeeklyNote/2024年19周记录.md"
+    },
+    {
+      "basename": "2024年05月21日",
+      "path": "000 - 每日日记/DailyNote/2024年05月21日.md"
+    },
+    {
+      "basename": "2024年05月20日",
+      "path": "000 - 每日日记/DailyNote/2024年05月20日.md"
+    },
+    {
+      "basename": "2024年05月17日",
+      "path": "000 - 每日日记/DailyNote/2024年05月17日.md"
+    },
+    {
+      "basename": "2024年05月16日",
+      "path": "000 - 每日日记/DailyNote/2024年05月16日.md"
+    },
+    {
+      "basename": "2024年05月14日",
+      "path": "000 - 每日日记/DailyNote/2024年05月14日.md"
+    },
+    {
+      "basename": "2024年05月13日",
+      "path": "000 - 每日日记/DailyNote/2024年05月13日.md"
+    },
+    {
+      "basename": "渲染进程和渲染进程通讯：利用主进程作为中间人例子",
+      "path": "020 - 工作学习/非开发/脚本/js脚本/渲染进程和渲染进程通讯：利用主进程作为中间人例子.md"
+    },
+    {
+      "basename": "渲染进程和渲染进程通讯：使用 MessagePort例子",
+      "path": "020 - 工作学习/非开发/脚本/js脚本/渲染进程和渲染进程通讯：使用 MessagePort例子.md"
+    },
+    {
+      "basename": "2024年05月11日",
+      "path": "000 - 每日日记/DailyNote/2024年05月11日.md"
+    },
+    {
+      "basename": "nodejs",
+      "path": "020 - 工作学习/非开发/脚本/js脚本/nodejs.md"
+    },
+    {
+      "basename": "2024年05月12日",
+      "path": "000 - 每日日记/DailyNote/2024年05月12日.md"
+    },
+    {
+      "basename": "2024年05月10日",
+      "path": "000 - 每日日记/DailyNote/2024年05月10日.md"
+    },
+    {
+      "basename": "2024年05月09日",
+      "path": "000 - 每日日记/DailyNote/2024年05月09日.md"
+    },
+    {
+      "basename": "2024年05月08日",
+      "path": "000 - 每日日记/DailyNote/2024年05月08日.md"
+    },
+    {
+      "basename": "spice被卡巴斯基拦截的过程",
+      "path": "020 - 工作学习/工作/业务知识和难题/spice/spice问题/spice被卡巴斯基拦截的过程.md"
+    },
+    {
+      "basename": "2024年05月07日",
+      "path": "000 - 每日日记/DailyNote/2024年05月07日.md"
+    },
+    {
+      "basename": "2024年05月06日",
+      "path": "000 - 每日日记/DailyNote/2024年05月06日.md"
+    },
+    {
+      "basename": "2024年04月28日",
+      "path": "000 - 每日日记/DailyNote/2024年04月28日.md"
+    },
+    {
+      "basename": "2024年01月25日",
+      "path": "000 - 每日日记/DailyNote/2024年01月25日.md"
+    },
+    {
+      "basename": "2024年03月12日",
+      "path": "000 - 每日日记/DailyNote/2024年03月12日.md"
+    },
+    {
+      "basename": "2024年03月27日",
+      "path": "000 - 每日日记/DailyNote/2024年03月27日.md"
+    },
+    {
+      "basename": "剩余未联调的模块",
+      "path": "020 - 工作学习/工作/工作计划/有成果的工作/剩余未联调的模块.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "未命名.md"
+    },
+    {
+      "basename": "2024年04月30日",
+      "path": "000 - 每日日记/DailyNote/2024年04月30日.md"
+    },
+    {
+      "basename": "2024年04月29日",
+      "path": "000 - 每日日记/DailyNote/2024年04月29日.md"
+    },
+    {
+      "basename": "2024年04月19日",
+      "path": "000 - 每日日记/DailyNote/2024年04月19日.md"
+    },
+    {
+      "basename": "2024年04月17日",
+      "path": "000 - 每日日记/DailyNote/2024年04月17日.md"
+    },
+    {
+      "basename": "2024年04月18日",
+      "path": "000 - 每日日记/DailyNote/2024年04月18日.md"
+    },
+    {
+      "basename": "2024年16周记录",
+      "path": "000 - 每日日记/WeeklyNote/2024年16周记录.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+=======
+      "basename": "2024年05月22日",
+      "path": "000 - 每日日记/DailyNote/2024年05月22日.md"
+    }
+  ],
+  "omittedPaths": []
+>>>>>>> Stashed changes
+}

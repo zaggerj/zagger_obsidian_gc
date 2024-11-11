@@ -1,0 +1,108 @@
+# dns:
+#   enable: true
+#   ipv6: false
+#   listen: 0.0.0.0:53
+#   enhanced-mode: fake-ip
+#   nameserver:
+#     - 223.5.5.5
+#     - https://223.6.6.6/dns-query
+#     - 119.29.29.29
+#   fallback:
+#     - https://45.11.45.11/dns-query
+proxy-providers:
+  XMRTH:
+    type: http
+    interval: 14400
+    url: https://feedneo.net/files/SAsPa7stFx/clash.yml
+    path: './providers/xmrth.yml'
+    health-check:
+      enable: true
+      interval: 900
+      url: http://google.com/generate_204
+
+# 确保 phantomsocks 正确运行在对应端口，且配置了下面的规则
+# http 模式运行于 7900 但稳定性存疑，先不用
+proxies:
+  - name: '反限速'
+    type: socks5
+    server: 127.0.0.1
+    port: 7899
+
+proxy-groups:
+  - name: Proxy
+    type: select
+    proxies:
+      - 🌗平衡
+      - 🌑自选
+      - 🌕高速
+      - ☀️倍率
+  - name: 🌑自选
+    type: select
+    use:
+      - XMRTH
+  - name: 🌗平衡
+    type: load-balance
+    filter: (香港|台)
+    use:
+      - XMRTH
+    strategy: consistent-hashing
+  - name: 🌕高速
+    type: url-test
+    # filter: HK|TW|高速|端口
+    use:
+      - XMRTH
+    tolerance: 300
+  - name: ☀️倍率
+    type: url-test
+    filter: 中转
+    use:
+      - XMRTH
+    tolerance: 300
+rule-providers:
+  icloud:
+    type: http
+    behavior: domain
+    url: https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/icloud.txt
+    path: ./ruleset/icloud.yaml
+    interval: 86400
+  apple:
+    type: http
+    behavior: domain
+    url: https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/apple.txt
+    path: ./ruleset/apple.yaml
+    interval: 86400
+  direct:
+    type: http
+    behavior: domain
+    url: https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/direct.txt
+    path: ./ruleset/direct.yaml
+    interval: 86400
+  gfw:
+    type: http
+    behavior: domain
+    url: https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/gfw.txt
+    path: ./ruleset/gfw.yaml
+    interval: 86400
+rules:
+  - DOMAIN-KEYWORD,163,反限速
+  - DOMAIN-KEYWORD,126.net,反限速
+  - DOMAIN-KEYWORD,bili,反限速
+  - DOMAIN-KEYWORD,gist,Proxy
+  #- DOMAIN-KEYWORD,github,反限速
+  - DOMAIN-KEYWORD,live,反限速
+  - DOMAIN-SUFFIX,msn.cn,反限速
+  - DOMAIN-KEYWORD,microsoft,反限速
+  - DOMAIN-KEYWORD,azureedge,反限速
+  - DOMAIN-KEYWORD,tencent,反限速
+  - DOMAIN-KEYWORD,qq,反限速
+  - DOMAIN-KEYWORD,virtualearth,DIRECT
+  - DOMAIN-KEYWORD,npm,DIRECT
+  - DOMAIN-KEYWORD,windows,DIRECT
+  - DOMAIN-KEYWORD,bing,DIRECT
+  - DOMAIN-KEYWORD,msn,DIRECT
+  - RULE-SET,icloud,DIRECT
+  - RULE-SET,apple,DIRECT
+  - RULE-SET,direct,DIRECT
+  - GEOIP,LAN,DIRECT
+  - GEOIP,CN,DIRECT
+  - MATCH,Proxy

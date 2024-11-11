@@ -1,0 +1,24 @@
+{
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newFileFolderPath": "040 - Obsidian/New",
+  "attachmentFolderPath": "040 - Obsidian/附件",
+  "focusNewTab": true,
+  "showInlineTitle": false,
+  "strictLineBreaks": false,
+  "readableLineLength": false,
+  "autoConvertHtml": true,
+  "promptDelete": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
+  "defaultViewMode": "source",
+  "showUnsupportedFiles": true
+}

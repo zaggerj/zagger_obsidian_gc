@@ -1,0 +1,10 @@
+{
+  "shouldConfirmBeforeCreate": true,
+  "weekStart": "locale",
+  "wordsPerDot": 250,
+  "showWeeklyNote": true,
+  "weeklyNoteFormat": "周记：gggg年ww周",
+  "weeklyNoteTemplate": "obsidian配置文件目录/templater/模板/周记模板",
+  "weeklyNoteFolder": "日记周记/周记",
+  "localeOverride": "system-default"
+}

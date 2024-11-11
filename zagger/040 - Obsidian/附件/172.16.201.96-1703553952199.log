@@ -1,0 +1,1038 @@
+18:42:00.545 The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+18:42:00.545 The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+18:42:00.545 The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+18:42:00.545 The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+18:42:00.545 The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+18:42:00.545 The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+18:42:00.545 The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+18:42:00.545 The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+18:42:00.545 The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+18:42:00.545 The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+18:42:00.545 The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+18:42:00.545 The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+18:42:00.545 The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+18:42:00.545 The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+18:42:00.545 The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+18:42:00.545 The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+18:42:00.545 The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+18:42:00.545 The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+18:42:00.545 The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+18:42:00.545 The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+18:42:00.545 The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+18:42:00.545 The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+18:42:00.545 The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+18:42:00.545 The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+18:42:00.545 The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+18:42:00.545 The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+18:42:00.545 The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+18:42:00.545 The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+18:42:00.545 The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+18:42:00.545 The resource <URL> was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.
+18:41:00.789 760.863d0e01.js:26 [remote] [token get] http
+18:41:00.810 760.863d0e01.js:26 [remote] from.path: Object
+18:41:00.811 760.863d0e01.js:26 [remote] from.path: /consolePrepare to.path: /console emit registerTwice Object
+18:41:00.811 app.8f1c6255.js:1 [ws] registerTwice, options: Object
+18:41:00.811 app.8f1c6255.js:1 [ws] [register] registerData: Object mac: ec:IE:0i:pp:oM:Qs user_id: 8
+18:41:00.811 app.8f1c6255.js:1 >>> api_agent_connections_register Object
+18:41:01.164 760.863d0e01.js:26 [remote] [token get] http, token: d13c6ed1-c054-425d-9434-c3b3fd594944
+18:41:01.164 760.863d0e01.js:26 [remote] [token refresh] spiceInfo token: d13c6ed1-c054-425d-9434-c3b3fd594944
+18:41:01.164 760.863d0e01.js:26 [remote] [token get] loop start
+18:41:01.165 760.863d0e01.js:26 [remote] [imageQuality] [PROD] isTspace: true
+18:41:01.165 760.863d0e01.js:26 [remote] [imageQuality] [spice] serverManage strategy: undefined
+18:41:01.165 760.863d0e01.js:26 [remote] [imageQuality] [idp] serverManage strategy: undefined
+18:41:01.165 760.863d0e01.js:26 [remote] [spice] [spiceConfig] Object isDev: false
+18:41:01.165 760.863d0e01.js:26 [remote] [imageQuality] [spice] runConfig.h264: Object
+18:41:01.165 760.863d0e01.js:26 [remote] [imageQuality] [idp] runConfig.oeidpStrategy: Object
+18:41:01.165 760.863d0e01.js:26 [remote] [spice] spice switch idp [token] runConfigToken:d13c6ed1-c054-425d-9434-c3b3fd594944 Object
+18:41:01.165 760.863d0e01.js:26 [remote] [idp switch] idpSwitch: true idpOption: Object If no idpOption, the idp will be switched and the default configuration will be used. If the idpOption is passed as false, the idp will not be switched
+18:41:01.165 760.863d0e01.js:26 [remote] [spice] runConfig: Object
+18:41:01.167 oevdi.min.js:2 spiceLibIdp: create canvas cachedCanvas: undefined
+18:41:01.167 oevdi.min.js:2 spiceLibIdp: createUrl: {"query":"token=d13c6ed1-c054-425d-9434-c3b3fd594944","queryParts":{"token":"d13c6ed1-c054-425d-9434-c3b3fd594944"},"url":"wss://172.16.201.96/webidp?token=d13c6ed1-c054-425d-9434-c3b3fd594944"}
+18:41:01.169 oevdi.min.js:2 spiceLibIdp: setIdpOptions: idpOption: {"url":"wss://172.16.201.96/webidp?token=d13c6ed1-c054-425d-9434-c3b3fd594944","el":{},"debug":"*","imageOptions":{"type":"h264","perfMode":false,"gpu":true,"quality":"high"},"mx":{},"isDirectlyConnect":false}
+18:41:01.169 oevdi.min.js:2 [idp] loading idp scripts!
+18:41:01.170 oevdi.min.js:2 [idp] has previous idp: false
+18:41:01.170 oevdi.min.js:2 spiceLib: run: params: Object
+18:41:01.171 oevdi.min.js:2 [spice] [spicechannel] [timeTick] start! Channel: 1 main channel
+18:41:01.171 oevdi.min.js:2 spiceLib: disconnectPromise created
+18:41:01.188 oevdi.min.js:2 [spice] [spicechannel] [timeTick] end 0.02 onopen! Channel: 1 main channel
+18:41:01.334 oevdi.min.js:2 [remote] [spice] [whitescreen], spicechannel.js getRedLinkReplyBytes Object
+18:41:01.336 oevdi.min.js:2 oevdi.remoteStatusMap: Object
+18:41:01.337 760.863d0e01.js:26 spice callback: channelConnected 1
+18:41:01.337 app.8f1c6255.js:1 >>> instance Object
+18:41:01.338 760.863d0e01.js:26 [spice] emit main channelConnected!
+18:41:01.341 oevdi.min.js:2 server mouse mode: 1
+18:41:01.341 oevdi.min.js:2 change mouse mode to: 2
+18:41:01.347 oevdi.min.js:2 2023-12-25 18:41:01.347 Connecting display channel
+18:41:01.347 oevdi.min.js:2 2023-12-25 18:41:01.347 Connecting input channel
+18:41:01.347 oevdi.min.js:2 2023-12-25 18:41:01.347 Connecting cursor channel
+18:41:01.347 oevdi.min.js:2 2023-12-25 18:41:01.347 Connecting playback channel
+18:41:01.347 oevdi.min.js:2 2023-12-25 18:41:01.347 Connecting record channel
+18:41:01.347 oevdi.min.js:2 [spice] [spicechannel] [timeTick] start! Channel: 2 display channel
+18:41:01.373 oevdi.min.js:2 [spice] [spicechannel] [timeTick] end 0.03 onopen! Channel: 2 display channel
+18:41:01.373 oevdi.min.js:2 [spice] [spicechannel] [timeTick] start! Channel: 3 input channel
+18:41:01.403 oevdi.min.js:2 [spice] [spicechannel] [timeTick] end 0.03 onopen! Channel: 3 input channel
+18:41:01.403 oevdi.min.js:2 [spice] [spicechannel] [timeTick] start! Channel: 4 cursor channel
+18:41:01.431 app.8f1c6255.js:1 <<< onMessageResponse instance Object
+18:41:01.441 760.863d0e01.js:26 [spice] setResolution spice {"width":1920,"height":912}
+18:41:01.441 760.863d0e01.js:26 [remote] remoteStatusMap: {"remoteStatusMap":{"spice":true,"idp":false},"isDirectlyConnect":false} idpApp: undefined app: e
+18:41:01.441 oevdi.min.js:2 [spice] [spicechannel] [timeTick] end 0.04 onopen! Channel: 4 cursor channel
+18:41:01.442 oevdi.min.js:2 [spice] [spicechannel] [timeTick] start! Channel: 5 playback channel
+18:41:01.463 oevdi.min.js:2 [spice] [spicechannel] [timeTick] end 0.02 onopen! Channel: 5 playback channel
+18:41:01.463 oevdi.min.js:2 [spice] [spicechannel] [timeTick] start! Channel: 6 record channel
+18:41:01.493 oevdi.min.js:2 [spice] [spicechannel] [timeTick] end 0.03 onopen! Channel: 6 record channel
+18:41:01.798 760.863d0e01.js:26 [remote] [token refresh] spiceInfo token: df874ba0-2018-4992-b255-4857432e5c1e
+18:41:01.798 760.863d0e01.js:26 [remote] [token refresh] lib token: df874ba0-2018-4992-b255-4857432e5c1e
+18:41:01.798 760.863d0e01.js:26 [remote] [token refresh] idp token: df874ba0-2018-4992-b255-4857432e5c1e
+18:41:01.799 oevdi.min.js:2 spiceLibIdp: createUrl: {"query":"token=df874ba0-2018-4992-b255-4857432e5c1e","queryParts":{"token":"df874ba0-2018-4992-b255-4857432e5c1e"},"url":"wss://172.16.201.96/webidp?token=df874ba0-2018-4992-b255-4857432e5c1e"}
+18:41:01.799 oevdi.min.js:2 spiceLibIdp: refreshIdpUrl: idpOptions: {"url":"wss://172.16.201.96/webidp?token=df874ba0-2018-4992-b255-4857432e5c1e","el":{},"debug":"*","imageOptions":{"type":"h264","perfMode":false,"gpu":true,"quality":"high"},"mx":{},"isDirectlyConnect":false}
+18:41:01.851 app.8f1c6255.js:1 <<< onMessageResponse api_agent_connections_register Object
+18:41:01.852 app.8f1c6255.js:1 >>> instance Object
+18:41:01.908 oevdi.min.js:2 [remote] [spice] [whitescreen], spicechannel.js getRedLinkReplyBytes Object
+18:41:01.912 oevdi.min.js:2 [remote] [spice] [whitescreen], spicechannel.js getRedLinkReplyBytes Object
+18:41:01.913 oevdi.min.js:2 oevdi.remoteStatusMap: Object
+18:41:01.913 760.863d0e01.js:26 spice callback: channelConnected 2
+18:41:01.916 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 108
+18:41:01.917 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 314
+18:41:01.917 oevdi.min.js:2 [remote] [spice] received SPICE_MSG_DISPLAY_SURFACE_CREATE
+18:41:01.918 oevdi.min.js:2 [idp] starting spice session!
+18:41:01.918 oevdi.min.js:2 oevdi.remoteStatusMap: Object
+18:41:01.918 760.863d0e01.js:26 spice callback: resolution Array(2)
+18:41:01.918 760.863d0e01.js:26 current resolution: 800x600
+18:41:01.921 oevdi.min.js:2 oevdi.remoteStatusMap: Object
+18:41:01.921 760.863d0e01.js:26 spice callback: channelConnected 4
+18:41:01.924 oevdi.min.js:2 [remote] [spice] [whitescreen], spicechannel.js getRedLinkReplyBytes Object
+18:41:01.927 oevdi.min.js:2 [remote] [spice] [whitescreen], spicechannel.js getRedLinkReplyBytes Object
+18:41:01.927 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:01.927 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:01.930 oevdi.min.js:2 [remote] [spice] [whitescreen], spicechannel.js getRedLinkReplyBytes Object
+18:41:01.930 oevdi.min.js:2 oevdi.remoteStatusMap: Object
+18:41:01.930 760.863d0e01.js:26 spice callback: channelConnected 6
+18:41:01.930 oevdi.min.js:2 oevdi.remoteStatusMap: Object
+18:41:01.930 760.863d0e01.js:26 spice callback: channelConnected 5
+18:41:01.953 oevdi.min.js:2 oevdi.remoteStatusMap: Object
+18:41:01.953 760.863d0e01.js:26 spice callback: channelConnected 3
+18:41:02.090 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:02.090 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:03.114 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:03.114 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:03.667 oevdi.min.js:2 2023-12-25 18:41:03.667 scanCodes Array(1)
+18:41:03.667 oevdi.min.js:2 2023-12-25 18:41:03.667 INPUTS_KEY_DOWN: 224,28,0,0
+18:41:03.731 oevdi.min.js:2 2023-12-25 18:41:03.731 scanCodes Array(1)
+18:41:03.731 oevdi.min.js:2 2023-12-25 18:41:03.731 INPUTS_KEY_UP: 224,156,0,0
+18:41:03.837 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:03.837 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:03.993 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:03.993 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:04.096 app.8f1c6255.js:1 <<< onMessageResponse instance Object
+18:41:04.113 oevdi.min.js:2 server mouse mode: 1
+18:41:04.113 oevdi.min.js:2 change mouse mode to: 2
+18:41:04.114 oevdi.min.js:2 server mouse mode: 2
+18:41:04.171 oevdi.min.js:2 [idp] detecting idp server ..., url:  wss://172.16.201.96/webidp?token=df874ba0-2018-4992-b255-4857432e5c1e
+18:41:04.176 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 315
+18:41:04.187 oevdi.min.js:2 is black false
+18:41:04.187 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 108
+18:41:04.188 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 314
+18:41:04.189 oevdi.min.js:2 [remote] [spice] received SPICE_MSG_DISPLAY_SURFACE_CREATE
+18:41:04.192 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 315
+18:41:04.192 oevdi.min.js:2 Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently
+（匿名） @ oevdi.min.js:2
+18:41:04.204 oevdi.min.js:2 is black false
+18:41:04.205 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 314
+18:41:04.205 oevdi.min.js:2 [remote] [spice] received SPICE_MSG_DISPLAY_SURFACE_CREATE
+18:41:04.205 oevdi.min.js:2 oevdi.remoteStatusMap: Object
+18:41:04.205 760.863d0e01.js:26 spice callback: resolution Array(2)
+18:41:04.205 760.863d0e01.js:26 current resolution: 64x64
+18:41:04.207 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:04.207 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:04.208 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 315
+18:41:04.210 oevdi.min.js:2 is black true
+18:41:04.210 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 314
+18:41:04.210 oevdi.min.js:2 [remote] [spice] received SPICE_MSG_DISPLAY_SURFACE_CREATE
+18:41:04.210 oevdi.min.js:2 oevdi.remoteStatusMap: Object
+18:41:04.210 760.863d0e01.js:26 spice callback: resolution Array(2)
+18:41:04.210 760.863d0e01.js:26 current resolution: 640x480
+18:41:04.211 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:04.211 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:04.235 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:04.235 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:04.276 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:04.276 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:04.317 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:04.318 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:04.357 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:04.357 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:04.402 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:04.402 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:04.439 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:04.439 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:04.482 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:04.482 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:04.521 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:04.521 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:04.562 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:04.562 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:04.603 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:04.603 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:04.644 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:04.644 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:04.685 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:04.685 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:04.726 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:04.726 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:04.768 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:04.768 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:04.808 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:04.809 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:04.849 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:04.849 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:04.890 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:04.890 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:04.931 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:04.931 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:04.972 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:04.972 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:05.013 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:05.013 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:05.054 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:05.054 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:05.107 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:05.108 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:05.136 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:05.136 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:05.178 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:05.178 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:05.218 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:05.218 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:05.260 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:05.260 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:05.300 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:05.300 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:05.341 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:05.341 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:05.382 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:05.382 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:05.423 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:05.423 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:05.464 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:05.464 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:05.505 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:05.505 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:05.546 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:05.546 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:05.589 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:05.589 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:05.628 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:05.628 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:05.669 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:05.669 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:05.710 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:05.710 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:05.751 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:05.751 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:05.792 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:05.792 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:05.833 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:05.833 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:05.874 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:05.874 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:05.915 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:05.915 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:05.956 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:05.956 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:05.997 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:05.997 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:06.038 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:06.038 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:06.079 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:06.079 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:06.120 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:06.120 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:06.161 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:06.161 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:06.202 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:06.202 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:06.243 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:06.243 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:06.284 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:06.284 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:06.326 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:06.326 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:06.366 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:06.366 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:06.407 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:06.407 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:06.448 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:06.448 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:06.489 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:06.490 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:06.531 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:06.531 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:06.571 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:06.571 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:06.613 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:06.613 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:06.654 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:06.654 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:06.695 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:06.695 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:06.737 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:06.737 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:06.778 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:06.778 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:06.819 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:06.819 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:06.867 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:06.867 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:06.901 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:06.901 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:06.942 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:06.942 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:06.989 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:06.989 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:07.024 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:07.024 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:07.065 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:07.065 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:07.106 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:07.106 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:07.148 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:07.148 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:07.189 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:07.189 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:07.230 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:07.230 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:07.271 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:07.271 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:07.311 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:07.311 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:07.354 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:07.354 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:07.393 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:07.393  display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:07.433  display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:07.433  display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:07.475 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:07.475 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:07.516 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:07.516 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:07.557 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:07.557 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:07.598 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:07.598 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:07.639 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:07.639 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:07.680 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:07.680 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:07.721 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:07.721 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:07.762 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:07.762 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:07.804 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:07.804 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:07.844 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:07.844 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:07.885 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:07.885 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:07.926 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:07.926 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:07.967 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:07.967 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:08.008 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:08.008 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:08.049 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:08.049 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:08.090 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:08.090 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:08.131 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:08.131 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:08.172 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:08.172 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:08.213 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:08.213 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:08.254 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:08.254 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:08.295 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:08.295 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:08.336 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:08.336 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:08.377 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:08.377 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:08.418 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:08.418 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:08.466 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:08.466 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:08.500 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:08.500 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:08.541 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:08.541 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:08.582 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:08.582 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:08.623 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:08.623 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:08.665 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:08.665 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:08.706 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:08.706 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:08.747 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:08.747 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:08.788 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:08.788 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:08.830 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:08.830 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:08.870 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:08.870 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:08.915 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:08.915 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:08.952 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:08.952 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:08.993 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:08.993 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:09.034 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:09.034 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:09.107 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:09.107 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:09.116 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:09.117 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:09.158 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:09.158 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:09.199 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:09.199 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:09.240 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:09.240 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:09.280 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:09.280 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:09.320 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:09.321 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:09.362 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:09.362 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:09.403 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:09.403 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:09.444 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:09.444 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:09.485 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:09.485 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:09.526 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:09.526 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:09.567 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:09.567 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:09.608 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:09.608 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:09.649 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:09.649 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:09.690 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:09.690 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:09.732 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:09.732 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:09.772 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:09.772 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:09.813 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:09.813 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:09.854 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:09.854 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:09.895 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:09.895 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:09.937 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:09.937 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:09.977 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:09.977 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:10.018 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:10.018 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:10.059 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:10.059 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:10.117 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:10.117 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:10.141 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:10.141 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:10.190 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:10.190 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:10.223 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:10.223 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:10.264 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:10.264 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:10.305 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:10.305 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:10.346 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:10.346 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:10.387 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:10.387 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:10.428 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:10.428 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:10.469 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:10.469 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:10.510 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:10.510 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:10.551 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:10.551 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:10.594 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:10.594 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:10.633 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:10.633 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:10.674 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:10.674 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:10.715 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:10.715 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:10.756 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:10.756 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:10.797 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:10.797 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:10.838 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:10.838 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:10.879 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:10.879 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:10.920 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:10.920 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:11.105 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:11.105 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:11.128 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:11.128 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:11.168 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:11.168 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:11.205 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:11.205 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:11.246 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:11.246 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:11.287 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:11.287 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:11.329 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:11.329 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:11.369 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:11.369 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:11.410 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:11.410 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:11.451 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:11.451 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:11.492 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:11.492 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:11.534 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:11.534 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:11.574 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:11.574 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:11.615 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:11.616 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:11.656 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:11.656 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:11.697 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:11.697 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:11.738 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:11.738 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:11.779 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:11.779 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:11.822 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:11.822 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:11.861 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:11.861 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:11.903 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:11.903 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:11.944 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:11.944 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:11.984 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:11.984 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:12.025 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:12.025 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:12.066 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:12.066 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:12.108 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:12.108 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:12.148 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:12.148 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:12.190 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:12.190 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:12.231 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:12.231 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:12.271 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:12.271 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:12.316 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:12.316 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:12.336 oevdi.min.js:2 [idp] detecting idp server timeout.
+18:41:12.651 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 315
+18:41:12.658 oevdi.min.js:2 is black true
+18:41:12.658 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 314
+18:41:12.658 oevdi.min.js:2 [remote] [spice] received SPICE_MSG_DISPLAY_SURFACE_CREATE
+18:41:12.659 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:12.659 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:12.701 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:12.701 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:12.781 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:12.781 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:13.325 oevdi.min.js:2 [idp] detecting idp server ..., url:  wss://172.16.201.96/webidp?token=df874ba0-2018-4992-b255-4857432e5c1e
+18:41:14.144 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:14.144 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:14.334 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 315
+18:41:14.347 oevdi.min.js:2 is black true
+18:41:14.348 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 314
+18:41:14.348 oevdi.min.js:2 [remote] [spice] received SPICE_MSG_DISPLAY_SURFACE_CREATE
+18:41:14.349 oevdi.min.js:2 oevdi.remoteStatusMap: Object
+18:41:14.349 760.863d0e01.js:26 spice callback: resolution Array(2)
+18:41:14.349 760.863d0e01.js:26 current resolution: 1024x768
+18:41:14.353 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:14.353 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:14.392 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:14.392 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:14.866 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:14.866 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:15.466 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:15.466 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:16.692 oevdi.min.js:2 [spice] [clipboard] >>> [onwindowfocus] 1[clientGui_emit_focus_event]
+18:41:16.692 oevdi.min.js:2 [spice] [clipboard] >>> [onwindowfocus] 2[syncClientClipBoardToAgent]
+18:41:16.692 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:16.692 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:16.693 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:16.693 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:16.698 oevdi.min.js:2 [spice] [clipboard] >>> [onwindowfocus] 3[navigator_clipboard_readText_fire_paste] Object
+18:41:16.698 oevdi.min.js:2 [spice] [clipboard] >>> [onwindowfocus] 4[clientGui_emit_paste_event_onPaste], this.agent.setClipboard() Object
+18:41:16.699 oevdi.min.js:2 [spice] [clipboard] >>> [onwindowfocus] 5[setClipboard_sendGrab_sendPaste], setClipboard, sendGrab(),sendPaste() Object
+18:41:16.699 oevdi.min.js:2 [spice] [clipboard] >>> [onwindowfocus] 6[send_message_to_agent_sendGrab],send message to agent, sendGrab Object
+18:41:16.699 oevdi.min.js:2 [spice] [clipboard] >>> [onwindowfocus] 7[send_message_to_agent_sendPaste], send message to agent, sendPaste Object
+18:41:16.699 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:16.699 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:16.770 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:16.771 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:16.777 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:16.777 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:16.809 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:16.809 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:16.848 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:16.848 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:16.891 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:16.891 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:16.931 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:16.931 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:16.973 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:16.973 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:17.028 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:17.028 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:17.055 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:17.055 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:17.119 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:17.119 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:17.138 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:17.138 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:17.177 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:17.177 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:17.228 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:17.228 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:17.257 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:17.257 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:17.310 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:17.310 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:17.341 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:17.341 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:17.384 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:17.384 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:17.422 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:17.422 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:17.462 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:17.462 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:17.504 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:17.504 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:17.544 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:17.544 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:17.585 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:17.585 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:17.629 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:17.629 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:17.668 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:17.668 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:17.709 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:17.709 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:17.749 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:17.749 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:17.792 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:17.792 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:17.832 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:17.832 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:17.874 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:17.874 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:17.915 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:17.915 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:17.955 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:17.955 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:17.996 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:17.996 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:18.050 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:18.050 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:18.078 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:18.078 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:18.119 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:18.119 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:18.159 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:18.159 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:18.200 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:18.200 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:18.241 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:18.241 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:18.281 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:18.281 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:18.324 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:18.324 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:18.363 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:18.364 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:18.405 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:18.405 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:18.446 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:18.446 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:18.487 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:18.487 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:18.528 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:18.528 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:18.568 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:18.568 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:18.610 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:18.610 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:18.635 oevdi.min.js:2 2023-12-25 18:41:18.635 scanCodes Array(1)
+18:41:18.635 oevdi.min.js:2 2023-12-25 18:41:18.635 INPUTS_KEY_DOWN: 2,0,0,0
+18:41:18.645 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:18.645 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:18.715 oevdi.min.js:2 2023-12-25 18:41:18.715 scanCodes Array(1)
+18:41:18.715 oevdi.min.js:2 2023-12-25 18:41:18.715 INPUTS_KEY_UP: 130,0,0,0
+18:41:18.725 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:18.725 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:18.819 oevdi.min.js:2 2023-12-25 18:41:18.819 scanCodes Array(1)
+18:41:18.819 oevdi.min.js:2 2023-12-25 18:41:18.819 INPUTS_KEY_DOWN: 3,0,0,0
+18:41:18.847 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:18.847 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:18.888 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:18.888 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:18.907 oevdi.min.js:2 2023-12-25 18:41:18.907 scanCodes Array(1)
+18:41:18.907 oevdi.min.js:2 2023-12-25 18:41:18.907 INPUTS_KEY_UP: 131,0,0,0
+18:41:19.006 oevdi.min.js:2 2023-12-25 18:41:19.006 scanCodes Array(1)
+18:41:19.006 oevdi.min.js:2 2023-12-25 18:41:19.006 INPUTS_KEY_DOWN: 4,0,0,0
+18:41:19.067 oevdi.min.js:2 2023-12-25 18:41:19.067 scanCodes Array(1)
+18:41:19.067 oevdi.min.js:2 2023-12-25 18:41:19.067 INPUTS_KEY_UP: 132,0,0,0
+18:41:19.179 oevdi.min.js:2 2023-12-25 18:41:19.179 scanCodes Array(1)
+18:41:19.179 oevdi.min.js:2 2023-12-25 18:41:19.179 INPUTS_KEY_DOWN: 5,0,0,0
+18:41:19.277 oevdi.min.js:2 2023-12-25 18:41:19.277 scanCodes Array(1)
+18:41:19.277 oevdi.min.js:2 2023-12-25 18:41:19.277 INPUTS_KEY_UP: 133,0,0,0
+18:41:19.443 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:19.443 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:19.977 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:19.977 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:20.171 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:20.171 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:20.727 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:20.727 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:21.339 oevdi.min.js:2 [idp] detecting idp server timeout.
+18:41:22.179 oevdi.min.js:2 [idp] detecting idp server ..., url:  wss://172.16.201.96/webidp?token=df874ba0-2018-4992-b255-4857432e5c1e
+18:41:23.829 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:23.829 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:23.870 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:23.870 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:23.921 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:23.921 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:23.963 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:23.963 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:23.993 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:23.993 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:24.034 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:24.034 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:24.074 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:24.074 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:24.116 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:24.116 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:24.157 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:24.157 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:24.199 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:24.199 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:24.479 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:24.480 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:25.037 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:25.037 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:25.038 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:25.038 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:25.045 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:25.045 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:25.125 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:25.125 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:25.529 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:25.529 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:25.852 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:25.852 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:25.892 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:25.892 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:25.932 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:25.932 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:25.973 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:25.974 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:26.014 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:26.014 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:26.054 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:26.054 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:26.095 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:26.095 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:26.539 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:26.539 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:26.580 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:26.580 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:26.661 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:26.661 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:27.106 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:27.106 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:27.222 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:27.222 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:27.388 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:27.388 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:27.549 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:27.549 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:27.629 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:27.629 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:28.151 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:28.152 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:28.672 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:28.672 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:29.204 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:29.205 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:29.675 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:29.675 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:30.157 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:30.157 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:30.181 oevdi.min.js:2 [idp] detecting idp server timeout.
+18:41:30.678 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:30.678 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:31.160 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:31.160 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:31.181 oevdi.min.js:2 [idp] detecting idp server ..., url:  wss://172.16.201.96/webidp?token=df874ba0-2018-4992-b255-4857432e5c1e
+18:41:31.681 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:31.681 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:32.163 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:32.163 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:32.684 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:32.684 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:33.166 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:33.166 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:33.687 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:33.687 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:34.168 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:34.168 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:34.689 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:34.689 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:35.171 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:35.171 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:35.692 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:35.692 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:36.173 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:36.174 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:36.654 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:36.654 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:37.176 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:37.176 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:37.657 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:37.657 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:38.179 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:38.179 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:38.660 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:38.660 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:39.182 oevdi.min.js:2 [idp] detecting idp server timeout.
+18:41:39.182 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:39.182 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:39.663 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:39.663 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:40.170 oevdi.min.js:2 [idp] detecting idp server ..., url:  wss://172.16.201.96/webidp?token=df874ba0-2018-4992-b255-4857432e5c1e
+18:41:40.185 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:40.185 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:40.612 oevdi.min.js:2 2023-12-25 18:41:40.612 scanCodes Array(1)
+18:41:40.612 oevdi.min.js:2 2023-12-25 18:41:40.612 INPUTS_KEY_DOWN: 14,0,0,0
+18:41:40.631 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:40.631 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:40.683 oevdi.min.js:2 2023-12-25 18:41:40.683 scanCodes Array(1)
+18:41:40.684 oevdi.min.js:2 2023-12-25 18:41:40.684 INPUTS_KEY_UP: 142,0,0,0
+18:41:40.707 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:40.707 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:41.189 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:41.189 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:41.671 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:41.671 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:42.192 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:42.192 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:42.235 oevdi.min.js:2 2023-12-25 18:41:42.235 scanCodes Array(1)
+18:41:42.235 oevdi.min.js:2 2023-12-25 18:41:42.235 INPUTS_KEY_DOWN: 2,0,0,0
+18:41:42.276 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:42.276 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:42.346 oevdi.min.js:2 2023-12-25 18:41:42.346 scanCodes Array(1)
+18:41:42.347 oevdi.min.js:2 2023-12-25 18:41:42.347 INPUTS_KEY_UP: 130,0,0,0
+18:41:42.354 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:42.354 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:42.491 oevdi.min.js:2 2023-12-25 18:41:42.491 scanCodes Array(1)
+18:41:42.491 oevdi.min.js:2 2023-12-25 18:41:42.491 INPUTS_KEY_DOWN: 3,0,0,0
+18:41:42.515 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:42.515 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:42.555 oevdi.min.js:2 2023-12-25 18:41:42.555 scanCodes Array(1)
+18:41:42.555 oevdi.min.js:2 2023-12-25 18:41:42.555 INPUTS_KEY_UP: 131,0,0,0
+18:41:42.596 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:42.596 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:42.691 oevdi.min.js:2 2023-12-25 18:41:42.691 scanCodes Array(1)
+18:41:42.691 oevdi.min.js:2 2023-12-25 18:41:42.691 INPUTS_KEY_DOWN: 4,0,0,0
+18:41:42.716 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:42.716 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:42.755 oevdi.min.js:2 2023-12-25 18:41:42.755 scanCodes Array(1)
+18:41:42.755 oevdi.min.js:2 2023-12-25 18:41:42.755 INPUTS_KEY_UP: 132,0,0,0
+18:41:42.798 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:42.798 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:42.867 oevdi.min.js:2 2023-12-25 18:41:42.867 scanCodes Array(1)
+18:41:42.867 oevdi.min.js:2 2023-12-25 18:41:42.867 INPUTS_KEY_DOWN: 5,0,0,0
+18:41:42.878 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:42.878 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:42.952 oevdi.min.js:2 2023-12-25 18:41:42.952 scanCodes Array(1)
+18:41:42.952 oevdi.min.js:2 2023-12-25 18:41:42.952 INPUTS_KEY_UP: 133,0,0,0
+18:41:42.959 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:42.959 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:43.147 oevdi.min.js:2 2023-12-25 18:41:43.147 scanCodes Array(1)
+18:41:43.147 oevdi.min.js:2 2023-12-25 18:41:43.147 INPUTS_KEY_DOWN: 16,0,0,0
+18:41:43.160 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:43.160 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:43.221 oevdi.min.js:2 2023-12-25 18:41:43.221 scanCodes Array(1)
+18:41:43.221 oevdi.min.js:2 2023-12-25 18:41:43.221 INPUTS_KEY_UP: 144,0,0,0
+18:41:43.240 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:43.240 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:43.331 oevdi.min.js:2 2023-12-25 18:41:43.331 scanCodes Array(1)
+18:41:43.331 oevdi.min.js:2 2023-12-25 18:41:43.331 INPUTS_KEY_DOWN: 17,0,0,0
+18:41:43.361 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:43.361 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:43.395 oevdi.min.js:2 2023-12-25 18:41:43.395 scanCodes Array(1)
+18:41:43.395 oevdi.min.js:2 2023-12-25 18:41:43.395 INPUTS_KEY_UP: 145,0,0,0
+18:41:43.402 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:43.402 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:43.507 oevdi.min.js:2 2023-12-25 18:41:43.507 scanCodes Array(1)
+18:41:43.507 oevdi.min.js:2 2023-12-25 18:41:43.507 INPUTS_KEY_DOWN: 18,0,0,0
+18:41:43.522 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:43.522 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:43.579 oevdi.min.js:2 2023-12-25 18:41:43.579 scanCodes Array(1)
+18:41:43.579 oevdi.min.js:2 2023-12-25 18:41:43.579 INPUTS_KEY_UP: 146,0,0,0
+18:41:43.602 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:43.602 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:43.715 oevdi.min.js:2 2023-12-25 18:41:43.715 scanCodes Array(1)
+18:41:43.715 oevdi.min.js:2 2023-12-25 18:41:43.715 INPUTS_KEY_DOWN: 19,0,0,0
+18:41:43.723 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:43.723 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:43.774 oevdi.min.js:2 2023-12-25 18:41:43.774 scanCodes Array(1)
+18:41:43.774 oevdi.min.js:2 2023-12-25 18:41:43.774 INPUTS_KEY_UP: 147,0,0,0
+18:41:43.804 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:43.804 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:44.286 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:44.286 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:44.767 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:44.767 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:44.787 oevdi.min.js:2 2023-12-25 18:41:44.787 scanCodes Array(1)
+18:41:44.787 oevdi.min.js:2 2023-12-25 18:41:44.787 INPUTS_KEY_DOWN: 28,0,0,0
+18:41:44.811 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:44.811 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:44.915 oevdi.min.js:2 2023-12-25 18:41:44.915 scanCodes Array(1)
+18:41:44.915 oevdi.min.js:2 2023-12-25 18:41:44.915 INPUTS_KEY_UP: 156,0,0,0
+18:41:44.934 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:44.934 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:45.096 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:45.096 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:45.782 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:45.782 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:47.033 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:47.033 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:47.118 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:47.118 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:47.637 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:47.637 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:47.639 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:47.639 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:47.721 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:47.721 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:47.845 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:47.845 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:47.884 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:47.884 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:47.999 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:48.000 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:48.118 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:48.118 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:48.139 oevdi.min.js:2 2023-12-25 18:41:48.139 >>>>> send SPICE_MSGC_RECORD_MODE: 1
+18:41:48.140 oevdi.min.js:2 2023-12-25 18:41:48.140 >>>>> send SPICE_MSGC_RECORD_START_MARK
+18:41:48.143 oevdi.min.js:2 getUserMedia error permissions quest, e: DOMException: Requested device not found
+18:41:48.171 oevdi.min.js:2 [idp] detecting idp server timeout.
+18:41:48.717 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:48.717 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:48.849 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:48.850 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:48.931 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:48.931 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:49.172 oevdi.min.js:2 [idp] detecting idp server ..., url:  wss://172.16.201.96/webidp?token=df874ba0-2018-4992-b255-4857432e5c1e
+18:41:49.205 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:49.205 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:49.332 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:49.332 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:49.372 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:49.372 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:49.964 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:49.964 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:50.089 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:50.089 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:50.177 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:50.177 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:50.769 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:50.769 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:50.881 oevdi.min.js:2 oevdi.remoteStatusMap: Object
+18:41:50.883 760.863d0e01.js:26 spice callback: ready undefined
+18:41:50.883 760.863d0e01.js:26 [spice] emit ready!
+18:41:50.884 oevdi.min.js:2 2023-12-25 18:41:50.884 agent init: 10
+18:41:50.886 oevdi.min.js:2 change mouse mode to: 2
+18:41:50.986 760.863d0e01.js:26 [spice] setResolution spice {"width":1920,"height":912}
+18:41:50.987 oevdi.min.js:2 2023-12-25 18:41:50.986 set: 1920 x 912
+18:41:50.987 760.863d0e01.js:26 [remote] remoteStatusMap: {"remoteStatusMap":{"spice":true,"idp":false},"isDirectlyConnect":false} idpApp: undefined app: e
+18:41:50.990 oevdi.min.js:2 [spice] [mainprocess] process SPICE_MSG_MAIN_AGENT_DATA Object
+18:41:51.041 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 315
+18:41:51.061 oevdi.min.js:2 is black false
+18:41:51.063 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 314
+18:41:51.063 oevdi.min.js:2 [remote] [spice] received SPICE_MSG_DISPLAY_SURFACE_CREATE
+18:41:51.065 oevdi.min.js:2 oevdi.remoteStatusMap: Object
+18:41:51.065 760.863d0e01.js:26 spice callback: resolution Array(2)
+18:41:51.065 760.863d0e01.js:26 current resolution: 1920x912
+18:41:51.087 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:51.087 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:51.105 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:51.106 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:51.182 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:51.182 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:51.343 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:51.343 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:51.943 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:51.943 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:51.945 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:51.945 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:51.947 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:51.947 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:51.970 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:51.970 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:52.005 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:52.005 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:52.104 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:52.104 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:52.306 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:52.306 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:53.000 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:53.000 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:53.001 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:53.001 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:53.331 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:53.332 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:54.010 oevdi.min.js:2 display: received spiceMessage: e spiceMessage.messageType: 304
+18:41:54.010 oevdi.min.js:2 display: received spiceMessage SPICE_MSG_DISPLAY_DRAW_COPY messageType 304 drawImage: e
+18:41:55.491 oevdi.min.js:2 2023-12-25 18:41:55.491 closed by server: 1006 invalid token! false CloseEventisTrusted: truebubbles: falsecancelBubble: falsecancelable: falsecode: 1006composed: falsecurrentTarget: WebSocket {url: 'wss://172.16.201.96/webspice/?token=d13c6ed1-c054-425d-9434-c3b3fd594944&c=5', readyState: 3, bufferedAmount: 0, onopen: ƒ, onerror: ƒ, …}binaryType: "arraybuffer"bufferedAmount: 0extensions: ""onclose: ƒ ()onerror: ƒ ()onmessage: ƒ ()onopen: ƒ ()protocol: "binary"readyState: 3url: "wss://172.16.201.96/webspice/?token=d13c6ed1-c054-425d-9434-c3b3fd594944&c=5"[[Prototype]]: WebSocketdefaultPrevented: falseeventPhase: 0reason: ""returnValue: truesrcElement: WebSocket {url: 'wss://172.16.201.96/webspice/?token=d13c6ed1-c054-425d-9434-c3b3fd594944&c=5', readyState: 3, bufferedAmount: 0, onopen: ƒ, onerror: ƒ, …}target: WebSocket {url: 'wss://172.16.201.96/webspice/?token=d13c6ed1-c054-425d-9434-c3b3fd594944&c=5', readyState: 3, bufferedAmount: 0, onopen: ƒ, onerror: ƒ, …}timeStamp: 61689.30000001192type: "close"wasClean: false[[Prototype]]: CloseEvent
+warn @ oevdi.min.js:2
+18:41:55.492 oevdi.min.js:2 2023-12-25 18:41:55.491 Unknown error, code echannel: 5errorCode: 1message: ""[[Prototype]]: Object
+error @ oevdi.min.js:2
+18:41:55.492 oevdi.min.js:2 oevdi.remoteStatusMap: Object
+18:41:55.492 760.863d0e01.js:26 spice callback: unknown_error e
+18:41:55.492 oevdi.min.js:2 [remote] [idp] forcedShutdownRemote, remoteDestroy, 1. clearInterval 2. stop idpApp 3. disconnect oevdi
+18:41:55.494 oevdi.min.js:2 2023-12-25 18:41:55.494 Disconnecting channel 1
+18:41:55.495 oevdi.min.js:2 2023-12-25 18:41:55.494 Disconnecting channel 2
+18:41:55.495 oevdi.min.js:2 2023-12-25 18:41:55.495 Disconnecting channel 3
+18:41:55.495 oevdi.min.js:2 2023-12-25 18:41:55.495 Disconnecting channel 4
+18:41:55.495 oevdi.min.js:2 2023-12-25 18:41:55.495 socket is not connected, ignore message
+warn @ oevdi.min.js:2
+18:41:55.495 oevdi.min.js:2 2023-12-25 18:41:55.495 Disconnecting channel 5
+18:41:55.495 oevdi.min.js:2 2023-12-25 18:41:55.495 Disconnecting channel 6
+18:41:55.495 oevdi.min.js:2 oevdi.remoteStatusMap: Object
+18:41:55.497 app.8f1c6255.js:1 WebSocket front-end disconnected.
+18:41:55.500 oevdi.min.js:2 oevdi.remoteStatusMap: Object
+18:41:55.508 app.8f1c6255.js:1 WebSocket closed. Close code:1005 CloseEvent
+18:41:55.509 app.8f1c6255.js:1 WebSocket close manually, will not reconnect!
+18:41:57.173 oevdi.min.js:2 [idp] detecting idp server timeout.
+18:41:59.893 760.863d0e01.js:26 [remote] setResolution error {"width":1294,"height":912}
+18:41:59.893 760.863d0e01.js:26 [remote] remoteStatusMap: {"remoteStatusMap":{"spice":false,"idp":false},"isDirectlyConnect":false} idpApp: undefined app: null
+18:42:02.372 app.8f1c6255.js:1 [ws] Ws has been closed! Interpret ping!

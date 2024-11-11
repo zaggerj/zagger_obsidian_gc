@@ -1,0 +1,47 @@
+---
+tags:
+  - 工作/spice/源码学习
+created: 2023-11-03T22:29
+updated: 2023-11-13T16:51
+---
+# spice学习
+
+　　channels
+
+　　SPICE_CHANNEL_MAIN = 1
+
+　　SPICE_CHANNEL_DISPLAY = 2
+
+　　SPICE_CHANNEL_INPUTS = 3
+
+　　SPICE_CHANNEL_CURSOR = 4
+
+　　SPICE_CHANNEL_PLAYBACK = 5
+
+　　SPICE_CHANNEL_RECORD = 6
+
+　　SPICE_CHANNEL_TUNNEL = 7 *// obsolete // tunnel 地道，隧道，废弃了*
+
+　　SPICE_CHANNEL_SMARTCARD = 8 // smartcard 智能卡
+
+　　SPICE_CHANNEL_USBREDIR = 9 // usbredirect usb重定向
+
+　　SPICE_CHANNEL_PORT = 10
+
+　　SPICE_CHANNEL_WEBDAV = 11
+
+　　client messages
+
+　　SPICE_MSGC_ACK_SYNC = 1
+
+　　SPICE_MSGC_ACK = 2
+
+　　SPICE_MSGC_PONG = 3
+
+　　SPICE_MSGC_MIGRATE_FLUSH_MARK = 4
+
+　　SPICE_MSGC_MIGRATE_DATA = 5
+
+　　SPICE_MSGC_DISCONNECTING = 6
+
+　　SPICE_MSGC_FIRST_AVAIL = 101

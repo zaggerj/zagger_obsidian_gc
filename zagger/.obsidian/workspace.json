@@ -251,6 +251,7 @@
               "type": "tagfolder-view",
               "state": {},
               "icon": "lucide-file",
+              "title": "插件不再活动""icon": "lucide-file",
               "title": "插件不再活动"
             }
           },
@@ -463,6 +464,7 @@
       "audio-recorder:开始/结束录音": false,
       "workspaces:管理工作区布局": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "periodic-notes:Open today": false,
@@ -473,9 +475,12 @@
   },
   "active": "5b8c54f11cf3a040",
   "lastOpenFiles": [
+    "vite-plugin-mock-readme.md",
+    "s.md",
+    "conflict-files-obsidian-git.md",
+    "020 - 工作学习/工作/业务知识和难题/spice/spice问题/spice白屏问题.md",
     "000 - 每日日记/DailyNote/2024年11月11日.md",
     "005 - Archive/pdf/AngularJS权威教程(中文版).pdf",
-    "020 - 工作学习/工作/业务知识和难题/spice/spice问题/spice白屏问题.md",
     "000 - 每日日记/WeeklyNote/2024年45周记录.md",
     "000 - 每日日记/WeeklyNote/2024年46周记录.md",
     "005 - Archive/Electron实战-入门、进阶与性能优化 -- 刘晓伦 -- 2020 -- 机械工业出版社 -- 9787111653745 -- 6daea5b2c0b21ab23d7417cbeffb9776 -- Anna’s Archive.pdf",
@@ -505,8 +510,6 @@
     "004 - Resource/资源/windows操作系统重装教程.md",
     "020 - 工作学习/学习/后端/docker/a docker讲得比较好的文章/a docker实战 - 禅道卫士维护 2023.0606.md",
     "000 - 每日日记/DailyNote/2024年11月07日.md",
-    "000 - 每日日记/DailyNote/2024年11月06日.md",
-    "005 - Archive/pdf/node.js开发指南.pdf",
-    "005 - Archive/front-end.md"
+    "005 - Archive/pdf/node.js开发指南.pdf"
   ]
 }

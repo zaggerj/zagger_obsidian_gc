@@ -158,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -271,10 +271,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "020 - 工作学习/工作/交接文档/mmc.md"
+                "file": "000 - 每日日记/DailyNote/2024年11月12日.md"
               },
               "icon": "lucide-list",
-              "title": "mmc 的大纲"
+              "title": "2024年11月12日 的大纲"
             }
           },
           {
@@ -412,8 +412,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "aa507d199d43c40d",
+  "active": "8f40cb30027ce16b",
   "lastOpenFiles": [
+    "020 - 工作学习/工作/交接文档/mmc.md",
     "000 - 每日日记/DailyNote/2024年11月12日.md",
     "000 - 每日日记/WeeklyNote/2024年46周记录.md",
     "000 - 每日日记/DailyNote/2024年11月11日.md",
@@ -421,7 +422,6 @@
     "020 - 工作学习/工作/汇总所有在线文档.md",
     "020 - 工作学习/学习/后端/服务器相关知识/a 服务器相关命令.md",
     "000 - 每日日记/DailyNote/2024年10月29日.md",
-    "020 - 工作学习/工作/交接文档/mmc.md",
     "000 - 每日日记/DailyNote/2024年11月10日.md",
     "040 - Obsidian/主页/00. 主页.md",
     "004 - Resource/资源/windows操作系统重装教程.md",

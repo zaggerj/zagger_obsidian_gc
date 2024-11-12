@@ -735,6 +735,13 @@ TYPE=teacher // 运行教师端
 IP=172.16.43.8 // 本机 ip
 PORT=3333 // 占用端口
 SETUP=ture // 是否已经初始化，即是否运行 setup-ui
+
+NODE_ENV=development
+TYPE=teacher
+IP=172.21.15.105
+PORT=3333
+SETUP=ture
+
 ```
 
 1. 进入到/packages/teacher-ui，yarn serve 运行教师端界面

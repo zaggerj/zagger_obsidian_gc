@@ -83,7 +83,7 @@
             }
           },
           {
-            "id": "adaeacd878751b27",
+            "id": "e77e866b0f96d9c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -200,7 +200,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "generateUrl",
+                "query": "lsof",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -255,7 +255,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 327.5
   },
   "right": {
     "id": "49b0f6d6f173189c",
@@ -412,15 +412,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8f40cb30027ce16b",
+  "active": "23fad819ff207865",
   "lastOpenFiles": [
-    "020 - 工作学习/工作/交接文档/mmc.md",
+    "000 - 每日日记/DailyNote/2024年04月24日.md",
+    "020 - 工作学习/学习/后端/服务器相关知识/a 服务器相关命令.md",
     "000 - 每日日记/DailyNote/2024年11月12日.md",
+    "020 - 工作学习/工作/交接文档/mmc.md",
     "000 - 每日日记/WeeklyNote/2024年46周记录.md",
     "000 - 每日日记/DailyNote/2024年11月11日.md",
     "000 - 每日日记/WeeklyNote/2024年45周记录.md",
     "020 - 工作学习/工作/汇总所有在线文档.md",
-    "020 - 工作学习/学习/后端/服务器相关知识/a 服务器相关命令.md",
     "000 - 每日日记/DailyNote/2024年10月29日.md",
     "000 - 每日日记/DailyNote/2024年11月10日.md",
     "040 - Obsidian/主页/00. 主页.md",
@@ -448,7 +449,6 @@
     "005 - Archive/xmind/front-end.xmind",
     "005 - Archive/xmind/front-end_join.xmind",
     "005 - Archive/xmind/front-end109.25.xmind",
-    "000 - 每日日记/DailyNote/2024年11月07日.md",
     "005 - Archive/pdf/node.js开发指南.pdf"
   ]
 }

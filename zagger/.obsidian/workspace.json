@@ -156,21 +156,9 @@
               "icon": "lucide-file",
               "title": "2024年11月13日"
             }
-          },
-          {
-            "id": "d093fec583593b5a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.6"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
-            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -419,18 +407,20 @@
       "obsidian-kanban:创建新看板": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "d093fec583593b5a",
+  "active": "e77e866b0f96d9c3",
   "lastOpenFiles": [
-    "000 - 每日日记/WeeklyNote/2024年46周记录.md",
     "000 - 每日日记/DailyNote/2024年11月13日.md",
+    "020 - 工作学习/学习/后端/服务器相关知识/a 服务器相关命令.md",
+    "020 - 工作学习/工作/交接文档/mmc.md",
+    "000 - 每日日记/WeeklyNote/2024年46周记录.md",
     "000 - 每日日记/DailyNote/2024年11月12日.md",
     "000 - 每日日记/WeeklyNote/2024年45周记录.md",
     "000 - 每日日记/DailyNote/2024年04月24日.md",
-    "020 - 工作学习/学习/后端/服务器相关知识/a 服务器相关命令.md",
-    "020 - 工作学习/工作/交接文档/mmc.md",
     "000 - 每日日记/DailyNote/2024年11月11日.md",
     "020 - 工作学习/工作/汇总所有在线文档.md",
     "000 - 每日日记/DailyNote/2024年10月29日.md",

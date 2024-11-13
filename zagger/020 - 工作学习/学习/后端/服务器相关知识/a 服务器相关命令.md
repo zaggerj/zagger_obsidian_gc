@@ -500,10 +500,13 @@ systemctl restart firewalld.service
 `sed -i -e "s#mystorp.gitee.io\/static#ecloud.os-easy.com.cn\/static\/#g" "/var/www/html/js/libs/spice/oevdi.*"`
 
 项目中替换文本
-weboeidp
+#weboeidp #替换外网地址
 `sed -i -e "s#mystorp.gitee.io\/static#ecloud.os-easy.com.cn\/static\/#g" js/libs/oeidp/oeidp.*`
-webspice
+#webspice #替换外网地址
 `sed -i -e "s#mystorp.gitee.io\/static#ecloud.os-easy.com.cn\/static\/#g" js/libs/spice/oevdi.*`
+
+11月13日 遇到https://ecloud.os-easy.com.cn/ 地址无法访问，后端赵春旭排查发现是阿里的云服务器中nginx 挂了 没有自动重启，导致无法访问，文件下载无法使用。 ^713abb
+[[2024年11月13日#^event]]
 
 # 19. rustdesk `198793Peng` `284 037 269`
 

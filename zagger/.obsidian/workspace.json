@@ -185,7 +185,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lsof",
+                "query": "git describe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,7 +206,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "73db95bfb166faa1",
@@ -397,7 +398,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8f40cb30027ce16b",
+  "active": "f2b0ffe519625a29",
   "lastOpenFiles": [
     "020 - 工作学习/学习/后端/服务器相关知识/a 服务器相关命令.md",
     "000 - 每日日记/DailyNote/2024年11月14日.md",

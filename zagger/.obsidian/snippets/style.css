@@ -1,0 +1,13 @@
+/* 第一部分:将 Obsidian 中的高亮样式改为下划线 */
+.markdown-preview-view mark,
+.cm-s-obsidian span.cm-highlight {
+  background-color: rgba(255, 188, 16, 0.14); /* 背景颜色为下划线颜色的14%不透明 */
+  padding: 3px 1px; /* 上下，左右 */
+  text-decoration: underline; /* 添加下划线 */
+  /* 第二部分: */
+  text-decoration-thickness: 1px; /* 下划线的粗细，可自行调整 */
+  text-decoration-color: rgba(255, 188, 16, 1); /* 下划线颜色，可自行调整 */
+  text-decoration-style: solid; /* 下划线样式，可选dotted, dashed等 */
+  text-underline-offset: 4px; /* 下划线与文本之间的间距 */
+  border-radius: 1px; /* 圆角效果 */
+}

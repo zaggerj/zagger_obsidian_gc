@@ -647,6 +647,8 @@ curl -v -T "./packages/common-electron/dist/linux-unpacked/resources/app.asar" -
 # new 2.2.0
 curl -v -T "./packages/common-electron/dist/linux-unpacked/resources/{app.asar,app.asar.version}" -P 21 -u admin:'123qwe!@#' "ftp://172.16.227.19/CTSC%20files/产品版本/多媒体/test/2.2.0/" -P -
 
+curl -v -T "./packages/common-electron/dist/linux-unpacked/resources/{app.asar,app.asar.version}" -P 21 -u admin:'123qwe!@#' "ftp://172.16.227.19/CTSC%20files/产品版本/多媒体/test/2.2.0-custom-Wuyi_University/" -P -
+
 # 查看远程文件列表
 curl -v -P 21 -u admin:'123qwe!@#' "ftp://172.16.227.19/CTSC%20files/产品版本/多媒体/test/" -P -
 curl -P 21 -u admin:'123qwe!@#' "ftp://172.16.227.19/CTSC%20files/产品版本/多媒体/test/" -P -

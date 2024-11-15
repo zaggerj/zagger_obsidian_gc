@@ -1,9 +1,9 @@
 {
   "accentColor": "",
   "cssTheme": "",
-  "interfaceFontFamily": "霞鹜文楷等宽",
-  "textFontFamily": "霞鹜文楷等宽",
-  "monospaceFontFamily": "霞鹜文楷等宽",
+  "interfaceFontFamily": "Alimama FangYuanTi VF,霞鹜文楷等宽",
+  "textFontFamily": "Alimama FangYuanTi VF,霞鹜文楷等宽",
+  "monospaceFontFamily": "Alimama FangYuanTi VF,霞鹜文楷等宽",
   "baseFontSize": 14,
   "theme": "system",
   "enabledCssSnippets": [

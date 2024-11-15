@@ -467,13 +467,17 @@
       "obsidian-kanban:创建新看板": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "8f40cb30027ce16b",
   "lastOpenFiles": [
-    "000 - 每日日记/DailyNote/2024年11月16日.md",
+    "020 - 工作学习/工作/汇总所有在线文档.md",
+    "040 - Obsidian/主页/00. 主页.md",
     "000 - 每日日记/DailyNote/2024年11月15日.md",
+    "000 - 每日日记/DailyNote/2024年11月16日.md",
     "000 - 每日日记/DailyNote/2024年11月12日.md",
     "000 - 每日日记/DailyNote/2024年11月13日.md",
     "conflict-files-obsidian-git.md",
@@ -488,12 +492,10 @@
     "005 - Archive/Electron实战-入门、进阶与性能优化 -- 刘晓伦 -- 2020 -- 机械工业出版社 -- 9787111653745 -- 6daea5b2c0b21ab23d7417cbeffb9776 -- Anna’s Archive.pdf",
     "005 - Archive/深入浅出Electron 原理、工程与实践 -- 刘晓伦 -- 2022 -- 机械工业出版社 -- 9787111696094 -- 845edd0b4b83eb3c1b2f0d12c6220063 -- Anna’s Archive.pdf",
     "040 - Obsidian/主页/每日网站打开.md",
-    "040 - Obsidian/主页/00. 主页.md",
     "000 - 每日日记/DailyNote/2024年11月08日.md",
     "005 - Archive/Electron实战：入门、进阶与性能优化.pdf",
     "000 - 每日日记/DailyNote/2024年11月09日.md",
     "005 - Archive/Electron实战：入门、进阶与性能优化_刘晓伦_24hbook.com.epub",
-    "020 - 工作学习/工作/汇总所有在线文档.md",
     "005 - Archive/深入浅出Electron 原理、工程与实践（海康威视Electron专家_布道者撰写 原理、工程构建、技术方案、工具4维度教你开发稳定、健壮Electron应用） (Web开发技术丛书) 刘晓伦  _.epub",
     "000 - 每日日记/DailyNote/2024年11月17日.md",
     "000 - 每日日记/DailyNote/2024年11月14日.md",

@@ -393,8 +393,7 @@
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "periodic-notes:Open today": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "periodic-notes:Open today": false
     }
   },
   "active": "8f40cb30027ce16b",

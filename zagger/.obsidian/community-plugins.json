@@ -32,5 +32,7 @@
   "global-search-and-replace",
   "settings-search",
   "omnisearch",
-  "note-toolbar"
+  "note-toolbar",
+  "link-favicon",
+  "obsidian-list-callouts"
 ]

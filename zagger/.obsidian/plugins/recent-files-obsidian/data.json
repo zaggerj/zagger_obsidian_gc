@@ -5,12 +5,40 @@
       "path": "000 - 每日日记/DailyNote/2024年11月16日.md"
     },
     {
-      "basename": "2024年11月15日",
-      "path": "000 - 每日日记/DailyNote/2024年11月15日.md"
+      "basename": "每日网站打开",
+      "path": "040 - Obsidian/主页/每日网站打开.md"
+    },
+    {
+      "basename": "a docker实战 - 禅道卫士维护 2023.0606",
+      "path": "020 - 工作学习/学习/后端/docker/a docker讲得比较好的文章/a docker实战 - 禅道卫士维护 2023.0606.md"
     },
     {
       "basename": "汇总所有在线文档",
       "path": "020 - 工作学习/工作/汇总所有在线文档.md"
+    },
+    {
+      "basename": "2024年45周记录",
+      "path": "000 - 每日日记/WeeklyNote/2024年45周记录.md"
+    },
+    {
+      "basename": "2024年46周记录",
+      "path": "000 - 每日日记/WeeklyNote/2024年46周记录.md"
+    },
+    {
+      "basename": "spice白屏问题",
+      "path": "020 - 工作学习/工作/业务知识和难题/spice/spice问题/spice白屏问题.md"
+    },
+    {
+      "basename": "linux安装最新neovim",
+      "path": "004 - Resource/资源/linux安装最新neovim.md"
+    },
+    {
+      "basename": "nodejs子进程",
+      "path": "000 - 每日日记/DailyNote/nodejs子进程.md"
+    },
+    {
+      "basename": "2024年11月15日",
+      "path": "000 - 每日日记/DailyNote/2024年11月15日.md"
     },
     {
       "basename": "00. 主页",
@@ -23,14 +51,6 @@
     {
       "basename": "2024年11月13日",
       "path": "000 - 每日日记/DailyNote/2024年11月13日.md"
-    },
-    {
-      "basename": "2024年46周记录",
-      "path": "000 - 每日日记/WeeklyNote/2024年46周记录.md"
-    },
-    {
-      "basename": "2024年45周记录",
-      "path": "000 - 每日日记/WeeklyNote/2024年45周记录.md"
     },
     {
       "basename": "a 服务器相关命令",
@@ -65,24 +85,8 @@
       "path": "004 - Resource/资源/windows操作系统重装教程.md"
     },
     {
-      "basename": "a docker实战 - 禅道卫士维护 2023.0606",
-      "path": "020 - 工作学习/学习/后端/docker/a docker讲得比较好的文章/a docker实战 - 禅道卫士维护 2023.0606.md"
-    },
-    {
       "basename": "ehelper项目",
       "path": "000 - 每日日记/DailyNote/ehelper项目.md"
-    },
-    {
-      "basename": "linux安装最新neovim",
-      "path": "004 - Resource/资源/linux安装最新neovim.md"
-    },
-    {
-      "basename": "nodejs子进程",
-      "path": "000 - 每日日记/DailyNote/nodejs子进程.md"
-    },
-    {
-      "basename": "spice白屏问题",
-      "path": "020 - 工作学习/工作/业务知识和难题/spice/spice问题/spice白屏问题.md"
     },
     {
       "basename": "2024年11月17日",
@@ -99,10 +103,6 @@
     {
       "basename": "shell命令比较复杂一些的（带索引）",
       "path": "020 - 工作学习/学习/后端/linux/shell命令比较复杂一些的（带索引）.md"
-    },
-    {
-      "basename": "每日网站打开",
-      "path": "040 - Obsidian/主页/每日网站打开.md"
     },
     {
       "basename": "2024年11月05日",

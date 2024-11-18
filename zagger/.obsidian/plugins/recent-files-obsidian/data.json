@@ -5,6 +5,18 @@
       "path": "000 - 每日日记/DailyNote/2024年11月18日.md"
     },
     {
+      "basename": "REAMDME",
+      "path": "001 - Inbox/REAMDME.md"
+    },
+    {
+      "basename": "REAMDME",
+      "path": "002 - Project/REAMDME.md"
+    },
+    {
+      "basename": "REAMDME",
+      "path": "003 - Area/REAMDME.md"
+    },
+    {
       "basename": "汇总所有在线文档",
       "path": "020 - 工作学习/工作/汇总所有在线文档.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "00.spice",
       "path": "020 - 工作学习/工作/业务知识和难题/spice/00.spice.md"
-    },
-    {
-      "basename": "00.业务知识和难题",
-      "path": "020 - 工作学习/工作/业务知识和难题/00.业务知识和难题.md"
-    },
-    {
-      "basename": "spice库改动历史备忘",
-      "path": "020 - 工作学习/工作/业务知识和难题/spice/spice预研优化/spice库改动历史备忘.md"
-    },
-    {
-      "basename": "2024年10月21日",
-      "path": "000 - 每日日记/DailyNote/2024年10月21日.md"
     }
   ],
   "omittedPaths": [],

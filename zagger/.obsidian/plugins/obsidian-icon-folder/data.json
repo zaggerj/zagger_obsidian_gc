@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "TiBrandDaysCounter",
-      "LiBook",
-      "🧑‍🤝‍🧑",
-      "LiFile",
-      "LiMenu"
+      "LiObsidian",
+      "LiBrain",
+      "RiTaskLine",
+      "💰",
+      "LiFileJson"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,5 +37,13 @@
   "005 - Archive": "LiFile",
   "010 - 人员管理": "🧑‍🤝‍🧑",
   "020 - 工作学习": "LiBook",
-  "000 - 每日日记": "TiBrandDaysCounter"
+  "000 - 每日日记": "TiBrandDaysCounter",
+  "030 - 阅读笔记": "BoBxBookReader",
+  "050 - 卡片知识": "TiCards",
+  "060 - 临时": "IbTabLeftCompact",
+  "obsidian配置文件目录": "LiFileJson",
+  "003 - Area": "💰",
+  "002 - Project": "RiTaskLine",
+  "001 - Inbox": "LiBrain",
+  "040 - Obsidian": "LiObsidian"
 }

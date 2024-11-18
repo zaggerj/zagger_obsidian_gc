@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🌐",
       "LiObsidian",
       "LiBrain",
       "RiTaskLine",
-      "💰",
-      "LiFileJson"
+      "💰"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,9 +41,9 @@
   "030 - 阅读笔记": "BoBxBookReader",
   "050 - 卡片知识": "TiCards",
   "060 - 临时": "IbTabLeftCompact",
-  "obsidian配置文件目录": "LiFileJson",
   "003 - Area": "💰",
   "002 - Project": "RiTaskLine",
   "001 - Inbox": "LiBrain",
-  "040 - Obsidian": "LiObsidian"
+  "040 - Obsidian": "🌐",
+  "060 - 临时/obsidian配置文件目录": "LiFileJson"
 }

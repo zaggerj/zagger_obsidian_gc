@@ -399,7 +399,9 @@
       "obsidian-kanban:创建新看板": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
 <<<<<<< HEAD
@@ -413,8 +415,9 @@
 =======
   "active": "3fcb4d3a4cddfad3",
   "lastOpenFiles": [
-    "000 - 每日日记/DailyNote/2024年11月18日.md",
+    "conflict-files-obsidian-git.md",
     "040 - Obsidian/主页/每日网站打开.md",
+    "000 - 每日日记/DailyNote/2024年11月18日.md",
     "060 - 临时/vite-plugin-mock-readme.md",
     "060 - 临时/未命名.md",
     "001 - Inbox/REAMDME.md",
@@ -442,8 +445,11 @@
     "000 - 每日日记/DailyNote/2024年11月15日.md",
     "040 - Obsidian/主页/00. 主页.md",
     "000 - 每日日记/DailyNote/2024年11月13日.md",
+<<<<<<< HEAD
     "conflict-files-obsidian-git.md",
     "020 - 工作学习/学习/后端/服务器相关知识/a 服务器相关命令.md",
+=======
+>>>>>>> 7c529e2 (feat: update)
     "005 - Archive/pdf/AngularJS权威教程(中文版).pdf",
     "005 - Archive/Electron实战-入门、进阶与性能优化 -- 刘晓伦 -- 2020 -- 机械工业出版社 -- 9787111653745 -- 6daea5b2c0b21ab23d7417cbeffb9776 -- Anna’s Archive.pdf",
     "005 - Archive/深入浅出Electron 原理、工程与实践 -- 刘晓伦 -- 2022 -- 机械工业出版社 -- 9787111696094 -- 845edd0b4b83eb3c1b2f0d12c6220063 -- Anna’s Archive.pdf",

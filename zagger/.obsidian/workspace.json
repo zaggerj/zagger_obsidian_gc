@@ -118,13 +118,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 - 每日日记/WeeklyNote/2024年46周记录.md",
+                "file": "000 - 每日日记/WeeklyNote/2024年47周记录.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024年46周记录"
+              "title": "2024年47周记录"
             }
           },
           {
@@ -133,13 +133,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 - 每日日记/DailyNote/2024年11月17日.md",
+                "file": "000 - 每日日记/DailyNote/2024年11月18日.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024年11月17日"
+              "title": "2024年11月18日"
+            }
+          },
+          {
+            "id": "30a37a2818edb923",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 - 每日日记/DailyNote/2024年11月24日.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024年11月24日"
             }
           }
         ],
@@ -185,7 +200,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git describe",
+                "query": "tag:#学习知识点",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -392,13 +407,25 @@
       "obsidian-kanban:创建新看板": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "14b4d58120bbcb19",
+  "active": "23fad819ff207865",
   "lastOpenFiles": [
-    "000 - 每日日记/DailyNote/2024年11月15日.md",
+    "000 - 每日日记/WeeklyNote/2024年47周记录.md",
+    "000 - 每日日记/DailyNote/2024年11月24日.md",
+    "000 - 每日日记/DailyNote/2024年11月23日.md",
+    "000 - 每日日记/DailyNote/2024年11月22日.md",
+    "000 - 每日日记/DailyNote/2024年11月21日.md",
+    "000 - 每日日记/DailyNote/2024年11月20日.md",
+    "000 - 每日日记/DailyNote/2024年11月19日.md",
+    "000 - 每日日记/DailyNote/2024年11月18日.md",
     "000 - 每日日记/WeeklyNote/2024年46周记录.md",
+    "000 - 每日日记/DailyNote/2024年11月17日.md",
+    "000 - 每日日记/DailyNote/2024年11月16日.md",
+    "000 - 每日日记/DailyNote/2024年11月15日.md",
     "000 - 每日日记/WeeklyNote/2024年45周记录.md",
     "020 - 工作学习/学习/后端/服务器相关知识/a 服务器相关命令.md",
     "020 - 工作学习/工作/交接文档/mmc.md",
@@ -413,22 +440,12 @@
     "040 - Obsidian/主页/00. 主页.md",
     "004 - Resource/资源/windows操作系统重装教程.md",
     "020 - 工作学习/学习/后端/docker/a docker讲得比较好的文章/a docker实战 - 禅道卫士维护 2023.0606.md",
-    "000 - 每日日记/DailyNote/ehelper项目.md",
-    "004 - Resource/资源/linux安装最新neovim.md",
-    "000 - 每日日记/DailyNote/nodejs子进程.md",
-    "020 - 工作学习/工作/业务知识和难题/spice/spice问题/spice白屏问题.md",
-    "conflict-files-obsidian-git.md",
     "005 - Archive/pdf/AngularJS权威教程(中文版).pdf",
     "005 - Archive/Electron实战-入门、进阶与性能优化 -- 刘晓伦 -- 2020 -- 机械工业出版社 -- 9787111653745 -- 6daea5b2c0b21ab23d7417cbeffb9776 -- Anna’s Archive.pdf",
     "005 - Archive/深入浅出Electron 原理、工程与实践 -- 刘晓伦 -- 2022 -- 机械工业出版社 -- 9787111696094 -- 845edd0b4b83eb3c1b2f0d12c6220063 -- Anna’s Archive.pdf",
-    "040 - Obsidian/主页/每日网站打开.md",
-    "000 - 每日日记/DailyNote/2024年11月08日.md",
     "005 - Archive/Electron实战：入门、进阶与性能优化.pdf",
-    "000 - 每日日记/DailyNote/2024年11月09日.md",
     "005 - Archive/Electron实战：入门、进阶与性能优化_刘晓伦_24hbook.com.epub",
     "005 - Archive/深入浅出Electron 原理、工程与实践（海康威视Electron专家_布道者撰写 原理、工程构建、技术方案、工具4维度教你开发稳定、健壮Electron应用） (Web开发技术丛书) 刘晓伦  _.epub",
-    "000 - 每日日记/DailyNote/2024年11月17日.md",
-    "000 - 每日日记/DailyNote/2024年11月16日.md",
     "005 - Archive/xmind/front-end.xmind",
     "005 - Archive/xmind/front-end_join.xmind",
     "005 - Archive/xmind/front-end109.25.xmind",

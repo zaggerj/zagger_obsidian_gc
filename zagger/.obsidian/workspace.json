@@ -143,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -257,10 +257,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 - 每日日记/DailyNote/2024年11月19日.md"
+                "file": "040 - Obsidian/主页/每日网站打开.md"
               },
               "icon": "lucide-list",
-              "title": "2024年11月19日 的大纲"
+              "title": "每日网站打开 的大纲"
             }
           },
           {
@@ -398,11 +398,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "14b4d58120bbcb19",
+  "active": "3fcb4d3a4cddfad3",
   "lastOpenFiles": [
+    "000 - 每日日记/DailyNote/2024年11月19日.md",
     "000 - 每日日记/DailyNote/2023年12月13日.md",
     "020 - 工作学习/学习/后端/服务器相关知识/a 服务器相关命令.md",
-    "000 - 每日日记/DailyNote/2024年11月19日.md",
     "000 - 每日日记/WeeklyNote/2024年47周记录.md",
     "000 - 每日日记/DailyNote/2024年11月18日.md",
     "040 - Obsidian/主页/每日网站打开.md",

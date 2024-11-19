@@ -206,8 +206,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "73db95bfb166faa1",
@@ -394,10 +393,11 @@
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "14b4d58120bbcb19",
+  "active": "23fad819ff207865",
   "lastOpenFiles": [
     "040 - Obsidian/主页/每日网站打开.md",
     "000 - 每日日记/DailyNote/2024年11月19日.md",

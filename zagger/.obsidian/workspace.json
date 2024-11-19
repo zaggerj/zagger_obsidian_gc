@@ -133,17 +133,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 - 每日日记/DailyNote/2024年11月18日.md",
+                "file": "000 - 每日日记/DailyNote/2024年11月19日.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024年11月18日"
+              "title": "2024年11月19日"
+            }
+          },
+          {
+            "id": "f08abc5d3ad98f2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 - 每日日记/DailyNote/2023年12月13日.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2023年12月13日"
+            }
+          },
+          {
+            "id": "814b5d61bb4fd4c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 - 每日日记/DailyNote/2023年12月13日.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2023年12月13日"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -185,7 +215,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#学习知识点",
+                "query": "删除分支",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,7 +236,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "73db95bfb166faa1",
@@ -256,10 +287,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 - 每日日记/DailyNote/2024年11月18日.md"
+                "file": "020 - 工作学习/学习/后端/服务器相关知识/a 服务器相关命令.md"
               },
               "icon": "lucide-list",
-              "title": "2024年11月18日 的大纲"
+              "title": "a 服务器相关命令 的大纲"
             }
           },
           {
@@ -397,24 +428,25 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "14b4d58120bbcb19",
+  "active": "e77e866b0f96d9c3",
   "lastOpenFiles": [
+    "000 - 每日日记/DailyNote/2023年12月13日.md",
+    "000 - 每日日记/DailyNote/2024年11月19日.md",
+    "000 - 每日日记/WeeklyNote/2024年47周记录.md",
+    "000 - 每日日记/DailyNote/2024年11月18日.md",
     "040 - Obsidian/主页/每日网站打开.md",
     "conflict-files-obsidian-git.md",
-    "000 - 每日日记/DailyNote/2024年11月18日.md",
     "060 - 临时/vite-plugin-mock-readme.md",
     "060 - 临时/未命名.md",
     "001 - Inbox/REAMDME.md",
     "002 - Project/REAMDME.md",
     "003 - Area/REAMDME.md",
     "020 - 工作学习/工作/汇总所有在线文档.md",
-    "000 - 每日日记/WeeklyNote/2024年47周记录.md",
     "000 - 每日日记/DailyNote/2024年11月24日.md",
     "000 - 每日日记/DailyNote/2024年11月23日.md",
     "000 - 每日日记/DailyNote/2024年11月22日.md",
     "000 - 每日日记/DailyNote/2024年11月21日.md",
     "000 - 每日日记/DailyNote/2024年11月20日.md",
-    "000 - 每日日记/DailyNote/2024年11月19日.md",
     "000 - 每日日记/WeeklyNote/2024年46周记录.md",
     "000 - 每日日记/DailyNote/2024年11月17日.md",
     "000 - 每日日记/DailyNote/2024年11月16日.md",
@@ -424,7 +456,6 @@
     "020 - 工作学习/工作/交接文档/mmc.md",
     "000 - 每日日记/DailyNote/2024年11月14日.md",
     "000 - 每日日记/DailyNote/2024年11月12日.md",
-    "000 - 每日日记/DailyNote/2024年11月13日.md",
     "005 - Archive/pdf/AngularJS权威教程(中文版).pdf",
     "005 - Archive/Electron实战-入门、进阶与性能优化 -- 刘晓伦 -- 2020 -- 机械工业出版社 -- 9787111653745 -- 6daea5b2c0b21ab23d7417cbeffb9776 -- Anna’s Archive.pdf",
     "005 - Archive/深入浅出Electron 原理、工程与实践 -- 刘晓伦 -- 2022 -- 机械工业出版社 -- 9787111696094 -- 845edd0b4b83eb3c1b2f0d12c6220063 -- Anna’s Archive.pdf",

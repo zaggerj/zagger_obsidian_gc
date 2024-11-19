@@ -8,7 +8,9 @@ aliases:
 created: 2023-11-03T22:29
 updated: 2023-11-28 15:28:24
 ---
-# 1. 端口号 占用问题 [[#86. 端口占用问题解决]]
+# 1. 删除分支
+`删除分支：`git branch -d origin 5.6.1-feature;git push origin -d 5.6.1-feature`
+# 2. 端口号 占用问题 [[#86. 端口占用问题解决]]
 ```bash
 netstat -ano | grep 9527|awk '{print $5}' | xargs kill -9
 
@@ -35,17 +37,17 @@ fi
 netstat -ano | grep -i "LISTENING" | grep -i ":8080" | cut -d: -f2 | awk '{print $1}' | xargs -I {} taskkill -F -PID {}
 ```
 [Vue---解决项目未正确关闭引起的nodejs端口占用_js端口被关闭后异常占用-CSDN博客](https://blog.csdn.net/qq_44765926/article/details/106022741#:~:text=%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95%EF%BC%9A%20%E7%AC%AC%E4%B8%80%E6%AD%A5%EF%BC%9A%E5%85%88%E6%9F%A5%E7%9C%8B%E7%AB%AF%E5%8F%A3%E5%8F%B7%EF%BC%88%E6%89%93%E5%BC%80%E5%91%BD%E4%BB%A4%E6%8F%90%E7%A4%BA%E7%AC%A6%EF%BC%89%20%E8%BE%93%E5%85%A5%20netstat%20-ano%7Cfindstr%20%E2%80%9C8080%E2%80%9D%20%E7%AC%AC%E4%BA%8C%E6%AD%A5%EF%BC%9A%E6%A0%B9%E6%8D%AEPID%E6%A0%87%E8%AF%86%E7%AC%A6%E8%8E%B7%E5%8F%96%E8%BF%9B%E7%A8%8B%E5%90%8D%E7%A7%B0%20%E8%BE%93%E5%85%A5,39924%20%E7%AC%AC%E4%B8%89%E6%AD%A5%EF%BC%9A%E6%A0%B9%E6%8D%AE%E8%BF%9B%E7%A8%8B%E5%90%8D%E7%A7%B0%E7%BB%93%E6%9D%9F%E8%BF%9B%E7%A8%8B%20%E8%BE%93%E5%85%A5%20taskkill%20%2Ff%20%2Ft%20%2Fim%20node.exe)| [webpack - npm run dev停止后，端口一直占用。 - SegmentFault 思否](https://segmentfault.com/q/1010000010012292)| [一条指令解决Linux和Windows下杀死指定端口进程的方法（附Shell和Batch脚本）_一行命令 kill 指定端口进程-CSDN博客](https://blog.csdn.net/Da_zhenzai/article/details/132595516)
-# 2. spicelib 文件 修改统一路径
+# 3. spicelib 文件 修改统一路径
 搜索关键字"generateWebsocketUrl:" 找到后面形似：”url=scheme+destHost+":"+destPort+"/"+"?token="“ 的代码  
 [[2024年10月29日#^event]]
-# 3. 服务状态
+# 4. 服务状态
 ```bash
 排查发现/8081/api/nodes/status接口一直没有响应返回
 
 然后查看/var/log/vdi/compute.log日志发现日志最后时间一直停留在2024-10-18 10:35:25.364，然后重启了服务就好了
 ```
 ![image.png](https://raw.githubusercontent.com/zaggerj/obsidian_picgo/main/obsidian/20241029090827.png)
-# 4. 服务器服务状态
+# 5. 服务器服务状态
 
 ```bash
 less /etc/thor/log/thorconsole.log
@@ -58,19 +60,19 @@ dmesg -T | grep out
 systemctl status vdi-scheduler
 ```
 
-# 5. 拿到数据库root密码
+# 6. 拿到数据库root密码
 
 ```bash
 crudini --get /etc/auxo/server-config.conf db password
 ```
 
-# 6. plink
+# 7. plink
 
 ```bash
 plink -l "root" -pw "ServerR00t" -P "10240" "172.21.65.145" -batch
 ```
 
-# 7. 多媒体 账号切换
+# 8. 多媒体 账号切换
 
 ```bash
 sudo su 
@@ -82,7 +84,7 @@ MMC_SERVER_BIN/electron/common-electron --no-sandbox --disable-gpu
 
 ```
 
-# 8. sto  ssh linux bash
+# 9. sto  ssh linux bash
 
 ```bash
 function sto() {
@@ -152,7 +154,7 @@ function sto() {
 alias sto='sto'
 ```
 
-# 9. sto plink windows bash
+# 10. sto plink windows bash
 
 ```bash
 function sto() {
@@ -230,7 +232,7 @@ alias sto='sto'
 sto -rd 145
 ```
 
-# 10. 多媒体命令
+# 11. 多媒体命令
 
 ```bash
 sudo rm -rf app.asar /opt/mmc-server/bin/electron/resources/app.asar;wget http://172.21.15.105:8081/packages/common-electron/dist/linux-unpacked/resources/app.asar;sudo cp app.asar /opt/mmc-server/bin/electron/resources/
@@ -239,7 +241,7 @@ sudo rm -rf app.asar /opt/mmc-server/bin/electron/resources/app.asar;wget http:/
 rm -f  /opt/mmc-server/bin/*.pid
 ```
 
-# 11. 服务器10240
+# 12. 服务器10240
 
 ```bash
 # docker run -it vpc bash 再次重新创建新容器 重新创建时，出现问题，找到了vpc的代码
@@ -248,7 +250,7 @@ docker exec -it vpc bash # 进入容器 没问题
 # 10240 进去的不在容器内
 ```
 
-# 12. 共享目录
+# 13. 共享目录
 
 周政学 7-25 10:15:06  
 用 oseasy/123456连 就是主目录  
@@ -257,7 +259,7 @@ docker exec -it vpc bash # 进入容器 没问题
 root进去 需要使用这个目录
 `/usr/local/vsftpd-compose/vsftpd/data/oseasy`
 
-# 13. ubuntu
+# 14. ubuntu
 
 ```bash
 # 配置root 密码 
@@ -401,7 +403,7 @@ chmod g-x,o-x
 [ubuntu | 镜像站使用帮助 | 清华大学开源软件镜像站 | Tsinghua Open Source Mirror](https://mirror.tuna.tsinghua.edu.cn/help/ubuntu/)
 [Beijing University of Posts and Telecommunications : Ubuntu (launchpad.net)](https://launchpad.net/ubuntu/+mirror/mirrors.bupt.edu.cn-release)
 
-### 13.1.1. linux  配置代理
+### 14.1.1. linux  配置代理
 
 [clash 原生客户端命令行教程（推荐） | AgentNEO 配置说明文档 (neodocs.co)](https://www.neodocs.co/others/clash-yuan-sheng-ke-hu-duan-ming-ling-hang-jiao-cheng-tui-jian)
 
@@ -428,20 +430,20 @@ alias unsetproxy="unset ALL_PROXY;unset http_proxy;unset https_proxy;"
 
 [[clash 原生客户端命令行教程]]
 
-### 13.1.2. linux 安装 fnm 失败
+### 14.1.2. linux 安装 fnm 失败
 
 ![image.png](https://raw.githubusercontent.com/zaggerj/obsidian_picgo/main/obsidian/20240819101928.png)
 
 linux 配置好了代理 还是有问题
 [[linux安装fnm]]
 
-### 13.1.3. ubuntu安装最新neovim
+### 14.1.3. ubuntu安装最新neovim
 
 ```bash
 apt install fzf
 ```
 
-# 14. linux系统安装
+# 15. linux系统安装
 
 [archlinux 硬盘to go-哔哩哔哩_bilibili](https://search.bilibili.com/all?vt=62127697&keyword=archlinux%20%E7%A1%AC%E7%9B%98to%20go&from_source=webtop_search&spm_id_from=&search_source=5)
 [Arch + Gnome = 极致丝滑_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1dH4y1S7ob/?spm_id_from=333.788&vd_source=af94dc11f0a1751ebb3c2090844ad9f6)
@@ -473,23 +475,23 @@ apt install fzf
 [Downloads – Oracle VM VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 [【网络安全】全方位讲解Linux操作系统，网络安全工程师一定要收藏！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Kf421q7S3/?spm_id_from=333.1007.tianma.4-1-11.click&vd_source=af94dc11f0a1751ebb3c2090844ad9f6)
 
-# 15. 防火墙问题
+# 16. 防火墙问题
 
 ```bash
 cp /etc/auxo/public.xml /etc/firewalld/zones/public.xml
 systemctl restart firewalld.service
 ```
 
-# 16. electron 安装问题
+# 17. electron 安装问题
 
  #electron安装 ELECTRON_MIRROR="<https://npmmirror.com/mirrors/electron/>" pnpm i --verbose  --unsafe-perm=true，解决问题，问题如下
 
-# 17. git tag
+# 18. git tag
 
 修改 tag 为 带注释消息的 tag
 `git tag -f -a v1.0 -m "updated version 1.0"`
 
-# 18. idp下载问题（不支持没有外网的环境）
+# 19. idp下载问题（不支持没有外网的环境）
 
 `sed -i -e 's#mystorp.gitee.io/static#新的地址#g' /var/www/html/js/libs/oeidp/oeidp.*`
 
@@ -508,21 +510,21 @@ systemctl restart firewalld.service
 11月13日 遇到https://ecloud.os-easy.com.cn/ 地址无法访问，后端赵春旭排查发现是阿里的云服务器中nginx 挂了 没有自动重启，导致无法访问，文件下载无法使用。 ^713abb
 [[2024年11月13日#^event]]
 
-# 19. rustdesk `198793Peng` `284 037 269`
+# 20. rustdesk `198793Peng` `284 037 269`
 
-# 20. nova
+# 21. nova
 
 ```bash
 nova get-vnc-console {uuid} novnc
 ```
 
-# 21. patch windows上出错了 估计是换行符问题导致出错了 实测linux上创建文件，然后diff 之后patch是没有问题的
+# 22. patch windows上出错了 估计是换行符问题导致出错了 实测linux上创建文件，然后diff 之后patch是没有问题的
 
 [（原）patching file 出现 Hunk #1 FAILED at xxx(different line endings). - lihaiping - 博客园](https://www.cnblogs.com/lihaiping/p/15895156.html)
 windows上用`patch -l --binary tea.md tea.patch`，参考链接：[tag - 我如何在Windows上應用diff補丁?](https://code-examples.net/zh-TW/q/7e489)| [使用diff和patch命令协同开发 | 良许嵌入式](https://www.lxlinux.net/e/linux/linux-diff-patch.html#%E6%A0%B9%E6%8D%AE%E5%B7%AE%E5%BC%82%E5%88%9B%E5%BB%BApatch%E6%96%87%E4%BB%B6)
 ![image.png](https://raw.githubusercontent.com/zaggerj/obsidian_picgo/main/obsidian/20240116140851.png)
 
-# 22. `grep '需求\|bug' ./src/components/gateway/*.vue`
+# 23. `grep '需求\|bug' ./src/components/gateway/*.vue`
 
 这里需要注意的是，始终要用单引号将正则表达式括起来，因为单引号内的内容原样输出，被单引号括起的内容不管是常量还是变量不会发生替换。
 
@@ -531,11 +533,11 @@ windows上用`patch -l --binary tea.md tea.patch`，参考链接：[tag - 我如
 ![image.png](https://raw.githubusercontent.com/zaggerj/obsidian_picgo/main/obsidian/20240116110108.png)
 [如何使用Grep命令查找多个字符串 | 良许嵌入式](https://www.lxlinux.net/e/linux/find-multiple-strings-using-grep-command.html)
 
-# 23. 图标和字体存在iconfont
+# 24. 图标和字体存在iconfont
 
 [iconfont-阿里巴巴矢量图标库](https://www.iconfont.cn/notifications?tab=official)
 
-# 24. 修改`VDI`端版权信息
+# 25. 修改`VDI`端版权信息
 
 `VDI`端内容主要是通过下载服务器上的zip包资源来更新的，需要访问服务器中指定路径去更改zip包内容来修改文案。
 
@@ -621,27 +623,27 @@ windows上用`patch -l --binary tea.md tea.patch`，参考链接：[tag - 我如
 
 6. 重启`VDI`端即可查看更新后的内容
 
-# 25. spice排查问题
+# 26. spice排查问题
 
 1. 查找6082是否被代理了，`grep -rn '6082' /etc/nginx/**/*.conf`
 ![image.png](https://raw.githubusercontent.com/zaggerj/obsidian_picgo/main/obsidian/20240103162220.png)
 2. 排查防火墙端口是否放开了，`firewall-cmd --list-ports | grep -rn '6082'`
 3. ip和浏览器ip是否一致，如果不一致，多半是网络原因需要后端排查网络，通过本地ping下spice连接的ip。
 
-# 26. 远程
+# 27. 远程
 
 1. [隧道列表 - Cpolar](http://localhost:9200/#/tunnels/list)
 2. [cpolar - secure introspectable tunnels to localhost](https://dashboard.cpolar.com/get-started)
 
-# 27. 忽略lint-staged
+# 28. 忽略lint-staged
 
 `git commit --no-verify -m 'fix: 1. 退出登录报错问题 2. loadLanguageAsync在初始化vue实例之前调用 3.解决eslint报错`
 
-# 28. 查看盘使用情况
+# 29. 查看盘使用情况
 
 ![image.png](https://raw.githubusercontent.com/zaggerj/obsidian_picgo/main/obsidian/20231110153702.png)
 
-# 29. 禁用canvas鼠标右键功能
+# 30. 禁用canvas鼠标右键功能
 
 ```js
 idpCanvas.oncontextmenu = (e) => {
@@ -651,7 +653,7 @@ idpCanvas.oncontextmenu = (e) => {
     }
 ```
 
-# 30. windows git bash 中 查询端口占用 并干掉
+# 31. windows git bash 中 查询端口占用 并干掉
 
 `netstat -ano | grep 9527|awk '{print $5}' | xargs kill -9`
 ![image.png](https://raw.githubusercontent.com/zaggerj/obsidian_picgo/main/obsidian20231109165847.png)
@@ -670,15 +672,15 @@ python /var/www/console/thor-console.pyc shell
 service vdi-thor-gunicorn restart
 ```
 
-# 31. 快速清空工作区 #clean #empty
+# 32. 快速清空工作区 #clean #empty
 
 `git checkout -- .;git clean -fd;`
 
-# 32. mac干掉不要的文件 #find #\.DS_Store
+# 33. mac干掉不要的文件 #find #\.DS_Store
 
 `find . -type f -name ".DS_Store" | xargs rm -rf`
 
-# 33. 查看etc目录占用比较大的目录
+# 34. 查看etc目录占用比较大的目录
 
 ```shell
 du -h /etc | grep G
@@ -686,9 +688,9 @@ du -h /etc | grep G
 
 ![[Pasted image 20231018111633.png]]
 
-# 34. 跳过检查
+# 35. 跳过检查
 > git commit --no-verify
-# 35. 终端快捷键
+# 36. 终端快捷键
 ctrl+u
 ctrl+k
 ctrl+a
@@ -726,7 +728,7 @@ tar -zxvf ./patch/update_2023-09-21.tar.gz -C update
 sudo lsof -i :端口号
 ```
 
-# 36. 外网环境搭建
+# 37. 外网环境搭建
 
 ```bash
 # 大家测试外网映射功能如果没有环境的话也可以通过ssh的方式实现  
@@ -746,7 +748,7 @@ ssh -L 0.0.0.0:6082:172.16.65.143:6082 -NC root@172.16.65.143
 
 ![[Pasted image 20230901094555.png]]
 
-# 37. 修改服务器时间
+# 38. 修改服务器时间
 
 ```bash
 # 设置服务器时间
@@ -756,7 +758,7 @@ yum install ntpdate
 ntpdate -u cn.pool.ntp.org  
 ```
 
-# 38. shutdown
+# 39. shutdown
 
 ```bash
 shutdown -r -t 5
@@ -775,7 +777,7 @@ cp dist/oevdi.min.js ../ngconsole/js/libs/spice/
 
 [authorized_key – Adds or removes an SSH authorized key — Ansible Documentation](https://docs.ansible.com/ansible/2.9/modules/authorized_key_module.html)
 
-# 39. idp服务器配置文件
+# 40. idp服务器配置文件
 
 ```bash
 > http://172.16.65.147/
@@ -784,7 +786,7 @@ cp dist/oevdi.min.js ../ngconsole/js/libs/spice/
 > oeidp.enable= false
 ```
 
-# 40. wsl2
+# 41. wsl2
 
 [WSL2 配置代理 - 哔哩哔哩 (bilibili.com)](https://www.bilibili.com/read/cv22203257/)
 
@@ -795,15 +797,15 @@ cp dist/oevdi.min.js ../ngconsole/js/libs/spice/
 
 　　‍
 
-# 41. 终端业务
+# 42. 终端业务
 
 [终端连桌面业务详解--ShowDoc](http://192.168.0.161:4999/web/#/3/3848)
 
-## 41.1. token 失效条件
+## 42.1. token 失效条件
 
 ​![image](40%20-%20Obsidian/附件/Attachment/assets%206-zagger/image-20230706085205-41m19po.png)​
 
-## 41.2. 局域网追踪网络走向命令
+## 42.2. 局域网追踪网络走向命令
 
 　　​![image](40%20-%20Obsidian/附件/Attachment/assets%206-zagger/image-20230705084016-l62i7y8.png)​
 
@@ -813,14 +815,14 @@ cp dist/oevdi.min.js ../ngconsole/js/libs/spice/
 tracert 58.48.71.131
 ```
 
-# 42. 部署前端文档 #上传
+# 43. 部署前端文档 #上传
 
 ```bash
 ssh-copy-id -i ~/.ssh/id_rsa.pub root@192.168.0.161
 scp -r dist/* root@192.168.0.161:/usr/share/nginx/html/fedoc
 ```
 
-# 43. consoleui 打包 bash 命令 #上传
+# 44. consoleui 打包 bash 命令 #上传
 
 ```bash
 PV=$(node -p 'require("./package.json").version')
@@ -828,7 +830,7 @@ tar cf $PV.tar.gz consoleui/package.json consoleui/dist
 scp -r 0.0.106.tar.gz root@192.168.0.161:/usr/local/vsftpd-compose/vsftpd/data/oseasy/trunk/console_ui
 ```
 
-# 44. 服务器代码 #上传 | [[汇总所有在线文档#^ce3eb8|scp]]
+# 45. 服务器代码 #上传 | [[汇总所有在线文档#^ce3eb8|scp]]
 
 ```bash
 scp -r js built resources views  css fonts includes view-front img init.html Cloud_r00t@172.16.201.47:/var/www/html                
@@ -851,7 +853,7 @@ Vdi&Voi@r00t
 
 ^e6bdc2
 
-# 45. ssh 服务器代码 #上传 windows
+# 46. ssh 服务器代码 #上传 windows
 
 ```bash
 scp -r dist/* root@172.16.101.22:/var/www/edaas/
@@ -859,14 +861,14 @@ scp -r js built resources views  css fonts includes view-front img init.html roo
 oseasy@141
 ```
 
-# 46. 获取笔记本 WiFi 密码
+# 47. 获取笔记本 WiFi 密码
 
 ```bash
 netsh wlan show profiles name=HUAWEI-AF1UL2 key=clear 
 netsh wlan show profiles name=zagger key=clear
 ```
 
-# 47. 安装git报错
+# 48. 安装git报错
 
 ```bash
 scoop install -g git@2.39.2.windows.1  
@@ -877,13 +879,13 @@ Line |  239 |      return $null -ne (Select-CurrentVersion -AppName $ app -Globa
 
 　　‍
 
-# 48. 启动weboeidpproxy服务
+# 49. 启动weboeidpproxy服务
 
 ```bash
 cd weboeidpproxy/ ./html5proxy --config=./spice.json --nova-config=/etc/nova/nova.conf
 ```
 
-# 49. #修改分支名称
+# 50. #修改分支名称
 
 ```bash
 git branch -m oldBranchName newBranchName 
@@ -891,7 +893,7 @@ git push origin :oldBranchName
 git push --set-upstream origin newBranchName
 ```
 
-# 50. #打tags
+# 51. #打tags
 
 ```bash
 git tag -a 5.5.0-release -m '发布版本'
@@ -917,7 +919,7 @@ git push --tags
 2. [git 生成版本号 git describe_我是榜样的博客-CSDN博客](https://blog.csdn.net/zhangpeng_linux/article/details/85858841)
 3. [git tag 打标签（我看过最透彻的文章）_黒客与画家的博客-CSDN博客](https://blog.csdn.net/TIAN20121221/article/details/119737274)
 
-# 51. 共享目录，voi 客户端包
+# 52. 共享目录，voi 客户端包
 
 ```bash
 ftp://172.16.227.19/CTSC%20files/%B2%FA%C6%B7%B0%E6%B1%BE/E-VOI/V5.5/VOI/5.5.0.6628/x86/
@@ -927,13 +929,13 @@ user
 ftp://172.16.227.19/CTSC%20files/%B2%FA%C6%B7%B0%E6%B1%BE/E-VOI/0_VOI%BD%CC%D3%FD%B0%E6/5.5.1/5.5.1-64/x86/
 ```
 
-# 52. 融合客户端：设置密码
+# 53. 融合客户端：设置密码
 
 ```bash
  osadmin
 ```
 
-# 53. 融合端：切换命令行
+# 54. 融合端：切换命令行
 
 ```bash
 C+ALT+f1-f7 切换命令行
@@ -966,7 +968,7 @@ centos6.5设置桥接模式，虚拟机无法ping通宿主机，主机可以ping
 (5条消息) 虚拟机ping不通的几种原因及解决办法_萌褚的博客-CSDN博客_虚拟机ping主机ping不通
 ```
 
-# 54. weboeidp 172.19.20.119 hzj 账号
+# 55. weboeidp 172.19.20.119 hzj 账号
 
 ```bash
 ssh Cloud_r00t@172.19.20.119
@@ -975,13 +977,13 @@ cd weboeidpproxy
 ./html5proxy --config=./spice.json --nova-config=/etc/nova/nova.conf
 ```
 
-# 55. weboeidp 172.16.201.136 getConnectInfo 补丁 nwy admin1
+# 56. weboeidp 172.16.201.136 getConnectInfo 补丁 nwy admin1
 
 ```bash
  var url = '/api/instances/connection'; var json = { instance_id: t.uuid }; s.a.post(url, json).then( function (resp) { t.instance = resp.data.instance; if (!t.instance) { return setTimeout(e, 500) } ;var data = t.instance.connect; data.port = 6082; var connectInfo = t.connectInfo; var status = connectInfo.status; if (status && status === 'ERROR') { self.onlyReset = true; return } ;t.instance = connectInfo.instance; console.log('newToken:', data.token) ;resolve(data) }, function () {} )
 ```
 
-# 56. tspace 服务，服务器修改服务名称，避免其自动重启
+# 57. tspace 服务，服务器修改服务名称，避免其自动重启
 
 ```bash
 ssh root@172.16.65.145
@@ -1058,7 +1060,7 @@ find / -type f -perm 0777 -print -exec chmod 644 {} \;
 # 如果以 root 身份运行这样的命令，您可能
 ```
 
-# 57. 改變所屬群組, chgrp:change group
+# 58. 改變所屬群組, chgrp:change group
 
 ```bash
 chgrp [-R] dirname/filename ...
@@ -1073,7 +1075,7 @@ chgrp [-R] dirname/filename ...
 chgrp: invalid group:  `testing' <== 發生錯誤訊息囉～找不到這個群組名～
 ```
 
-# 58. 改變檔案擁有者, chown:change owner
+# 59. 改變檔案擁有者, chown:change owner
 
 ```bash
 chown [-R] 帳號名稱 檔案或目錄
@@ -1100,7 +1102,7 @@ chown [-R] 帳號名稱 檔案或目錄
 
 　　‍
 
-# 59. 改變權限, chmod
+# 60. 改變權限, chmod
 
 ```bash
 Linux檔案的基本權限就有九個，分別是owner/group/others三種身份各有自己的read/write/execute權限， 先複習一下剛剛上面提到的資料：檔案的權限字元為：『-rwxrwxrwx』， 這九個權限是三個三個一組的！其中，我們可以使用數字來代表各個權限，各權限的分數對照表如下：
@@ -1155,7 +1157,7 @@ guid则表示执行相应脚本的用户将具有该文件所属用户组中用�
 
 　　‍
 
-# 60. 定位文件和应用
+# 61. 定位文件和应用
 
 ```bash
 which 命令只会在系统定义的搜索路径中，查找可执行的文件，通常用于识别命令。如果您对输入 
@@ -1171,7 +1173,7 @@ updatedb 进行的。
 
 　　‍
 
-# 61. grep使用方法
+# 62. grep使用方法
 
 　　grep 使用格式： grep [OPTIONS] PATTERN [FILE...]
 
@@ -1189,7 +1191,7 @@ tail -f /var/log/html5proxy/spice.log
 grep -rn 'bootstrap' ./ --exclude-dir={.git,node_modules,resources,built} --exclude={'*bundle*','*.min*',angular.js}
 ```
 
-# 62. vdi 4.4版本 模板连接失败 实际上用的vnc 6080端口
+# 63. vdi 4.4版本 模板连接失败 实际上用的vnc 6080端口
 
 ```bash
 systemctl list-units --type=service --state=running | grep vnc
@@ -1199,42 +1201,42 @@ systemctl restart  openstack-nova-novncproxy.service
 
 ![企业微信截图_17151596252422.png](https://raw.githubusercontent.com/zaggerj/obsidian_picgo/main/obsidian/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_17151596252422.png)
 
-# 63. docker维护
+# 64. docker维护
 
-# 64. 一、docker服务设置自动启动说明
+# 65. 一、docker服务设置自动启动说明
 
-# 65. 查看已启动的服务
+# 66. 查看已启动的服务
 
 systemctl list-units -type=service
 
-# 66. 查看是否设置开机启动
+# 67. 查看是否设置开机启动
 
 systemctl list-unit-files | grep enable
 
-# 67. 设置开机启动
+# 68. 设置开机启动
 
 systemctl enable docker.service
 
-# 68. 关闭开机启动
+# 69. 关闭开机启动
 
 systemctl disable docker.service
 
-# 69. 二、docker容器设置自动启动
+# 70. 二、docker容器设置自动启动
 
 docker run -tid -name 容器id -p 端口号 -restart-always -v 挂载
-# 70. Flag Description
-# 71. no 不自动重启容器：(默认value)
-# 72. on-failure 容器发生error而退出(容器退出状态不为0)重启容器
-# 73. unless-stopped 在容器已经stop掉或Docker stoped/restarted的时候才重启容器
-# 74. always 在容器已经stop掉或Docker stoped/restarted的时候才重启容器
+# 71. Flag Description
+# 72. no 不自动重启容器：(默认value)
+# 73. on-failure 容器发生error而退出(容器退出状态不为0)重启容器
+# 74. unless-stopped 在容器已经stop掉或Docker stoped/restarted的时候才重启容器
+# 75. always 在容器已经stop掉或Docker stoped/restarted的时候才重启容器
 
-# 75. 如果已经启动的项目.则使用update更新
+# 76. 如果已经启动的项目.则使用update更新
 
 docker update --restart=always 容器id
 
 docker log -f showdoc
 
-# 76. oeidp
+# 77. oeidp
 
 sed -i -e 's#mystorp.gitee.io/static#ecloud.os-easy.com.cn/static/#g' /var/www/html/js/libs/oeidp/oeidp.*
 
@@ -1250,7 +1252,7 @@ sed -i -e 's#mystorp.gitee.io/static#ecloud.os-easy.com.cn/static/#g' /var/w
  tail -f /var/log/html5proxy/spice.log
 ```
 
-# 77. 正则表达式
+# 78. 正则表达式
 
 ```bash
 (?<=<(\w+)>).*(?=<\/\1>)
@@ -1280,7 +1282,7 @@ str.replace(/\B(?=(?:\d{3})+\b)/g, ',');
 
 　　‍
 
-# 78. 远程服务器
+# 79. 远程服务器
 
 ```bash
 ssh root@172.16.65.141
@@ -1295,25 +1297,25 @@ ServerR00t
 vim /var/www/html/views/vdi/help/activeAuth.html
 ```
 
-# 79. dms:开发服务器
+# 80. dms:开发服务器
 
 ```bash
 http://172.16.162.200:7735  http://172.16.65.124:7735
 ```
 
-# 80. 服务器查看日志
+# 81. 服务器查看日志
 
 ```bash
 tail -f -n 10 /etc/thor/log/thorconsole.log
 ```
 
-# 81. 重启 supervisor 服务
+# 82. 重启 supervisor 服务
 
 ```bash
 systemctl restart thor-supervisor
 ```
 
-# 82. ssh-copy-id -i ~/.ssh/id_rsa.pub [zhangyao@172.16.103.196](mailto:zhangyao@172.16.103.196)
+# 83. ssh-copy-id -i ~/.ssh/id_rsa.pub [zhangyao@172.16.103.196](mailto:zhangyao@172.16.103.196)
 
 ```bash
 ssh-copy-id -i ~/.ssh/id_rsa.pub zhangyao@172.16.103.196
@@ -1322,7 +1324,7 @@ cat ~/.ssh/id_rsa.pub | ssh Cloud_r00t@172.16.201.47 "mkdir -p ~/.ssh && cat >> 
 chmod 644 ~/.ssh/authorized_keys
 ```
 
-# 83. console-vscode 插件
+# 84. console-vscode 插件
 
 ```bash
 ctrl + alt + l 选中变量之后，使用这个快捷键生成 console.log
@@ -1331,14 +1333,14 @@ alt + shift + u 启用所有 console.log
 alt + shift + d 删除所有 console.log
 ```
 
-# 84. mac 上传代码到服务器 docker 中指定端口
+# 85. mac 上传代码到服务器 docker 中指定端口
 
 ```bash
 rsync -avz -e 'ssh -p 10240' js built resources views p css fonts includes img init.html root@172.16.201.9:/var/www/html/
 直接进入服务器的10240端口，进入docker中。
 ```
 
-# 85. ssh 动态
+# 86. ssh 动态
 
 ```bash
 ssh Cloud_r00t@59.175.233.194 -p8181
@@ -1347,7 +1349,7 @@ ssh Cloud_r00t@59.175.233.194 -p8181
 也可以通过ssh -D10101 Cloud_r00t@59.175.233.194 -p8181的方式启用本地socks5端口
 ```
 
-# 86. 端口占用问题解决
+# 87. 端口占用问题解决
 
 ```bash
 netstat -aon|findstr 8088
@@ -1358,7 +1360,7 @@ netstat -aon|findstr 8088
 lsof -i:8080
 ```
 
-# 87. 端口转发
+# 88. 端口转发
 
 ```bash
 待验证
@@ -1366,7 +1368,7 @@ lsof -i:8080
 ssh -D10101 Cloud_r00t@59.175.233.194 -p8181
 ```
 
-### 87.1.1. Vdi&[Voi@r00t](http://Voi@r00t)
+### 88.1.1. Vdi&[Voi@r00t](http://Voi@r00t)
 
 　　​![image](40%20-%20Obsidian/附件/Attachment/assets%206-zagger/image-20230705092131-dvexqxp.png)​
 
@@ -1390,13 +1392,13 @@ scp -r js views built v img css includes fonts ssh_terminal vnc zips types Cloud
 Vdi&Voi@r00t
 ```
 
-# 88. 清空 chatgpt 缓存
+# 89. 清空 chatgpt 缓存
 
 ```bash
 javascript:window.localStorage.removeItem(Object.keys(window.localStorage).find(i=>i.startsWith('@@auth0spajs')))
 ```
 
-# 89. [环境配置相关](siyuan://blocks/20230705103954-dsr1hc8 "环境配置相关-不常用")
+# 90. [环境配置相关](siyuan://blocks/20230705103954-dsr1hc8 "环境配置相关-不常用")
 
 　　‍
 
